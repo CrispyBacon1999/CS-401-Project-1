@@ -1,0 +1,1574 @@
+traceroute to robknight.net (185.199.109.153), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.605 ms  0.616 ms  0.584 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.589 ms  1.563 ms  2.123 ms
+ 3  162.247.144.38 (162.247.144.38)  0.804 ms  0.895 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.323 ms
+ 4  172.97.107.193 (172.97.107.193)  11.836 ms  11.811 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.568 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.614 ms  1.584 ms *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.610 ms  5.628 ms *
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.006 ms * *
+ 8  * * bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  10.855 ms
+ 9  * * prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.437 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.trustdentalcare.com (132.148.254.13), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.619 ms  0.628 ms  0.577 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.408 ms  1.768 ms  2.307 ms
+ 3  162.247.144.38 (162.247.144.38)  0.934 ms  0.856 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.301 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.612 ms 162.247.144.34 (162.247.144.34)  1.414 ms  1.403 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.379 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.805 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.356 ms
+ 6  169.130.170.64 (169.130.170.64)  5.257 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.780 ms 169.130.170.64 (169.130.170.64)  4.802 ms
+ 7  bbr01ashbva-bue-4.ashb.va.charter.com (96.34.0.242)  19.112 ms ae0-0.agr04.fmhl01-mi.us.windstream.net (40.138.81.109)  5.297 ms  5.340 ms
+ 8  prr01ashbva-bue-3.ashb.va.charter.com (96.34.3.51)  17.706 ms  17.851 ms  17.815 ms
+ 9  ae9-0.cr01.asbn01-va.us.windstream.net (40.136.99.148)  20.131 ms eqix.dc.godaddy.com (206.126.236.43)  25.473 ms  25.342 ms
+10  ip-184-168-6-81.ip.secureserver.net (184.168.6.81)  24.401 ms eqix.dc.godaddy.com (206.126.236.43)  26.596 ms  26.379 ms
+11  * * ip-184-168-6-81.ip.secureserver.net (184.168.6.81)  25.642 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.moneytized.com (131.153.6.20), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.598 ms  0.619 ms  0.571 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.507 ms  1.425 ms  2.106 ms
+ 3  162.247.144.38 (162.247.144.38)  0.827 ms  0.894 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.371 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.581 ms 172.97.107.193 (172.97.107.193)  12.518 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.636 ms
+ 5  172.97.107.105 (172.97.107.105)  40.012 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.881 ms 172.97.107.105 (172.97.107.105)  39.987 ms
+ 6  eqix-dc2.phoenixnap.com (206.126.237.26)  40.141 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.758 ms  2.879 ms
+ 7  199.201.104.82 (199.201.104.82)  40.163 ms bbr01ashbva-bue-4.ashb.va.charter.com (96.34.0.242)  22.954 ms 199.201.104.82 (199.201.104.82)  40.197 ms
+ 8  10.226.202.17 (10.226.202.17)  40.553 ms 10.224.203.17 (10.224.203.17)  40.363 ms prr01ashbva-bue-3.ashb.va.charter.com (96.34.3.51)  17.696 ms
+ 9  eqix-dc2.phoenixnap.com (206.126.237.26)  28.747 ms ashsrv1.iproject.io (131.153.6.20)  40.020 ms  40.061 ms
+traceroute to operachic.typepad.com (104.18.137.190), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.645 ms  0.584 ms  0.579 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.689 ms  2.235 ms  1.470 ms
+ 3  162.247.144.38 (162.247.144.38)  0.813 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.324 ms 162.247.144.38 (162.247.144.38)  0.896 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.467 ms  1.631 ms 172.97.107.193 (172.97.107.193)  11.876 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.628 ms *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.466 ms  7.983 ms  2.416 ms
+ 7  104.18.137.190 (104.18.137.190)  13.970 ms  13.281 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.076 ms
+traceroute to WWW.synapsecracklepop.com (192.0.78.25), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.642 ms  0.626 ms  0.599 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.516 ms  1.365 ms  2.099 ms
+ 3  162.247.144.38 (162.247.144.38)  0.872 ms  0.803 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.331 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.594 ms 172.97.107.193 (172.97.107.193)  11.819 ms  11.737 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.835 ms *  1.622 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.769 ms 192.0.78.25 (192.0.78.25)  12.304 ms  12.116 ms
+traceroute to www.uvtv.info (74.208.242.89), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.618 ms  0.600 ms  0.580 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.574 ms  1.355 ms  2.127 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.644 ms 162.247.144.38 (162.247.144.38)  0.880 ms  0.804 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.604 ms  1.741 ms  1.724 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.919 ms  2.040 ms  1.578 ms
+ 6  100ge15-2.core1.chi1.he.net (184.104.192.117)  12.041 ms  12.218 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.223 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  7.142 ms 100ge0-54.core2.mci1.he.net (184.105.213.33)  23.307 ms  23.343 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  17.201 ms 1and1-ionos-inc.port-channel2.core2.mci1.he.net (184.105.16.22)  45.216 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  11.454 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.445 ms * ae-11.gw-distp-a.slr.lxa.us.oneandone.net (74.208.1.229)  45.238 ms
+10  100ge6-2.core2.chi1.he.net (184.105.250.37)  10.494 ms  10.607 ms 74.208.141.19 (74.208.141.19)  45.106 ms
+11  74.208.138.207 (74.208.138.207)  44.826 ms 100ge15-2.core1.chi1.he.net (184.104.192.117)  10.622 ms  10.716 ms
+12  100ge0-54.core2.mci1.he.net (184.105.213.33)  22.011 ms * *
+13  1and1-ionos-inc.port-channel2.core2.mci1.he.net (184.105.16.22)  43.315 ms *  43.740 ms
+14  ae-11.gw-distp-a.slr.lxa.us.oneandone.net (74.208.1.229)  43.736 ms *  43.845 ms
+15  74.208.141.19 (74.208.141.19)  43.874 ms *  43.857 ms
+16  74.208.138.207 (74.208.138.207)  43.536 ms *  43.503 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to aberrantlucidity.blogspot.com (172.217.9.33), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.642 ms  0.587 ms  0.578 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.670 ms  2.234 ms  1.543 ms
+ 3  162.247.144.38 (162.247.144.38)  0.763 ms  1.058 ms  0.965 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.535 ms  1.681 ms 172.97.107.193 (172.97.107.193)  11.899 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.828 ms  1.942 ms  1.897 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.748 ms 108.170.243.174 (108.170.243.174)  12.065 ms  12.099 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.092 ms  5.572 ms 72.14.239.113 (72.14.239.113)  12.564 ms
+ 8  ord38s08-in-f1.1e100.net (172.217.9.33)  12.261 ms  12.303 ms  12.232 ms
+traceroute to strixus.tumblr.net (66.6.32.40), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.602 ms  0.601 ms  0.591 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.445 ms  1.983 ms  2.484 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.649 ms 162.247.144.38 (162.247.144.38)  0.922 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.668 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.618 ms 172.97.107.193 (172.97.107.193)  11.957 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.658 ms
+ 5  pat2.che.yahoo.net (208.115.136.17)  20.983 ms  20.918 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.712 ms
+ 6  ae-10.pat2.bfy.yahoo.com (184.165.16.0)  24.943 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.467 ms ae4.pat1.che.yahoo.com (216.115.96.106)  28.383 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.584 ms et-0-0-0.msr1.bf2.yahoo.com (74.6.227.145)  26.992 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.416 ms
+ 8  et-18-0-1.msr1.bf2.yahoo.com (72.30.223.29)  26.916 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  16.013 ms et-19-1-0.msr2.bf1.yahoo.com (74.6.227.141)  28.435 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.647 ms  9.433 ms lo0.egr1-1-tba.bf2.yahoo.com (74.6.64.0)  28.415 ms
+10  xe-5-1-11.msr2.md2.yahoo.com (216.115.100.77)  10.647 ms  10.651 ms  10.714 ms
+11  ae-8.pat1.bfz.yahoo.com (216.115.101.231)  25.732 ms lo0.spn1-2-tba.bf2.yahoo.com (74.6.64.144)  28.416 ms lo0.spn1-1-tba.bf2.yahoo.com (74.6.64.128)  27.075 ms
+12  lo0.spn3-1-tba.bf2.yahoo.com (74.6.64.130)  26.914 ms unknown-74-6-227-x.yahoo.com (74.6.227.143)  28.063 ms lo0.spn2-1-tba.bf2.yahoo.com (74.6.64.129)  26.939 ms
+13  lo0.tor61-81-tba.bf2.yahoo.com (74.6.64.80)  28.406 ms lo0.lef6-1-tba.bf2.yahoo.com (74.6.64.137)  27.101 ms lo0.lef6-2-tba.bf2.yahoo.com (74.6.64.153)  27.066 ms
+14  et-1-1-0.clr1-a-gdc.bf2.yahoo.com (74.6.122.53)  27.123 ms lo0.egr3-3-tba.bf2.yahoo.com (74.6.64.2)  27.175 ms lo0.egr1-1-tba.bf2.yahoo.com (74.6.64.0)  27.161 ms
+15  * lo0.lef2-2-tba.bf2.yahoo.com (74.6.64.149)  26.976 ms *
+16  lo0.spn3-2-tba.bf2.yahoo.com (74.6.64.146)  25.729 ms lo0.spn1-2-tba.bf2.yahoo.com (74.6.64.144)  27.177 ms *
+17  lo0.lef6-1-tba.bf2.yahoo.com (74.6.64.137)  25.693 ms  25.807 ms  25.802 ms
+18  lo0.lef6-1-tba.bf2.yahoo.com (74.6.64.137)  25.839 ms lo0.lef6-2-tba.bf2.yahoo.com (74.6.64.153)  25.761 ms *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to nachtlich.org (84.22.109.167), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.606 ms  0.582 ms  0.574 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.660 ms  2.185 ms  1.614 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.491 ms 162.247.144.38 (162.247.144.38)  0.837 ms  0.831 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.621 ms  1.776 ms  1.716 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.674 ms *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.995 ms  7.719 ms nyk-bb3-link.telia.net (80.91.246.163)  104.991 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.374 ms  9.318 ms ldn-bb4-link.telia.net (62.115.112.245)  118.968 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.524 ms adm-bb4-link.telia.net (62.115.134.26)  101.270 ms  101.304 ms
+ 9  chi-b21-link.telia.net (62.115.14.41)  9.686 ms  9.585 ms  9.618 ms
+10  hlm1-bfr1-as1299.tilaa.net (62.115.42.158)  146.655 ms  146.702 ms nyk-bb4-link.telia.net (62.115.137.58)  107.771 ms
+11  ldn-bb4-link.telia.net (62.115.112.245)  118.652 ms ldn-bb3-link.telia.net (62.115.113.21)  108.016 ms  108.097 ms
+12  adm-bb4-link.telia.net (62.115.134.26)  99.630 ms adm-bb3-link.telia.net (62.115.113.210)  103.711 ms ams1-cr2-v1034.tilaa.net (164.138.24.35)  106.304 ms
+13  ams1-pod6-vc6-v1050.tilaa.net (164.138.24.51)  324.700 ms  325.882 ms adm-b3-link.telia.net (62.115.122.179)  107.519 ms
+14  hlm1-bfr1-as1299.tilaa.net (62.115.42.158)  99.563 ms  103.566 ms  103.498 ms
+15  hlm1-cr1-v1032.tilaa.net (164.138.24.33)  104.831 ms x1e.us (84.22.109.167)  105.048 ms hlm1-cr1-v1032.tilaa.net (164.138.24.33)  104.809 ms
+traceroute to s237.photobucket.com (209.17.68.29), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.596 ms  0.597 ms  0.543 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.601 ms  2.100 ms  1.522 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.412 ms 162.247.144.38 (162.247.144.38)  0.859 ms  0.777 ms
+ 4  172.97.107.193 (172.97.107.193)  11.832 ms  11.735 ms  11.826 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.946 ms *
+ 6  xe-8-1-1.er2.ord7.us.zip.zayo.com (64.125.12.177)  10.590 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  5.383 ms  6.496 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.420 ms *  7.511 ms
+ 8  ae5.cs2.den5.us.eth.zayo.com (64.125.29.216)  32.213 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.672 ms  8.603 ms
+ 9  ae17.mpr1.den2.us.zip.zayo.com (64.125.29.145)  32.252 ms be2128.ccr41.ord01.atlas.cogentco.com (154.54.82.213)  12.265 ms  13.718 ms
+10  be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  11.855 ms  12.333 ms 64.125.69.214.t01491-01.above.net (64.125.69.214)  32.054 ms
+11  zayo.ord03.atlas.cogentco.com (154.54.9.38)  11.691 ms  11.812 ms  11.859 ms
+12  * 209.17.68.29 (209.17.68.29)  31.968 ms  32.191 ms
+traceroute to horinca.blogspot.com (172.217.9.33), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.627 ms  0.605 ms  0.607 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.634 ms  1.673 ms  2.188 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.399 ms 162.247.144.38 (162.247.144.38)  0.811 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.411 ms
+ 4  172.97.107.193 (172.97.107.193)  11.771 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.566 ms  1.693 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.759 ms  1.650 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.061 ms 108.170.243.193 (108.170.243.193)  12.505 ms 108.170.243.174 (108.170.243.174)  12.050 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  8.954 ms  5.599 ms 72.14.239.111 (72.14.239.111)  10.868 ms
+ 8  ord38s08-in-f1.1e100.net (172.217.9.33)  12.194 ms  12.257 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  11.914 ms
+traceroute to www.phreon.co.nz (69.89.31.128), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.599 ms  0.618 ms  0.564 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.397 ms  2.071 ms  2.627 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.405 ms 162.247.144.38 (162.247.144.38)  0.767 ms  0.815 ms
+ 4  162.247.144.34 (162.247.144.34)  1.152 ms  1.288 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.498 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.156 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.674 ms  1.664 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.498 ms 169.130.170.64 (169.130.170.64)  4.972 ms  4.945 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  15.184 ms be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.089 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  15.147 ms
+ 8  be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.906 ms  8.852 ms ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  10.950 ms
+ 9  be2129.ccr42.ord01.atlas.cogentco.com (154.54.82.225)  12.187 ms  12.207 ms  12.277 ms
+10  ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  11.308 ms  16.955 ms  17.006 ms
+11  ae-11.r08.chcgil09.us.bb.gin.ntt.net (129.250.9.121)  12.326 ms  12.293 ms ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  67.128 ms
+12  ae-40.r02.snjsca04.us.bb.gin.ntt.net (129.250.3.121)  67.216 ms ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  12.474 ms ae-19.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.27)  62.852 ms
+13  ae-0.a01.snjsca04.us.bb.gin.ntt.net (129.250.3.163)  62.607 ms  66.862 ms ae-1.a01.snjsca04.us.bb.gin.ntt.net (129.250.2.48)  62.557 ms
+14  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  66.417 ms  70.430 ms ae-40.r02.snjsca04.us.bb.gin.ntt.net (129.250.3.121)  67.906 ms
+15  eth3-33-4.prvspn001.net.unifiedlayer.com (162.144.240.151)  70.542 ms eth4-33-3.prvspn002.net.unifiedlayer.com (162.144.240.161)  70.433 ms ae-0.a01.snjsca04.us.bb.gin.ntt.net (129.250.3.163)  67.537 ms
+16  po97.prv-leaf6a.net.unifiedlayer.com (162.144.240.11)  70.456 ms ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  71.226 ms po99.prv-leaf6b.net.unifiedlayer.com (162.144.240.23)  70.862 ms
+17  eth3-33-4.prvspn002.net.unifiedlayer.com (162.144.240.167)  71.262 ms eth4-33-3.prvspn002.net.unifiedlayer.com (162.144.240.161)  67.130 ms box328.bluehost.com (69.89.31.128)  70.895 ms
+traceroute to todbot.com (66.33.209.27), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.621 ms  0.593 ms  0.595 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.502 ms  1.920 ms  2.498 ms
+ 3  162.247.144.38 (162.247.144.38)  0.783 ms  0.998 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.555 ms
+ 4  162.247.144.34 (162.247.144.34)  1.773 ms  1.808 ms  1.720 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.718 ms  2.010 ms  1.963 ms
+ 6  169.130.170.64 (169.130.170.64)  4.933 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.683 ms  5.026 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.271 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.776 ms  12.825 ms
+ 8  ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.760 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.628 ms ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.709 ms
+ 9  be3745.ccr22.cle04.atlas.cogentco.com (154.54.30.129)  11.188 ms ae-21.r08.chcgil09.us.bb.gin.ntt.net (129.250.3.158)  25.833 ms  25.680 ms
+10  be2891.ccr41.dca01.atlas.cogentco.com (154.54.82.250)  23.058 ms  23.129 ms  23.038 ms
+11  ae-1.r23.asbnva02.us.bb.gin.ntt.net (129.250.2.138)  25.637 ms be2676.ccr22.iad02.atlas.cogentco.com (154.54.47.166)  23.789 ms ae-1.r23.asbnva02.us.bb.gin.ntt.net (129.250.2.138)  28.355 ms
+12  be3563.rcr51.b037327-0.iad02.atlas.cogentco.com (154.54.25.226)  23.988 ms ae-2.r05.asbnva02.us.bb.gin.ntt.net (129.250.2.22)  25.698 ms be3563.rcr51.b037327-0.iad02.atlas.cogentco.com (154.54.25.226)  24.082 ms
+13  ae-1.a03.asbnva02.us.bb.gin.ntt.net (129.250.5.214)  25.578 ms ae-0.a03.asbnva02.us.bb.gin.ntt.net (129.250.5.194)  28.713 ms 38.122.62.254 (38.122.62.254)  23.856 ms
+14  ae-0.dreamhost.asbnva02.us.bb.gin.ntt.net (129.250.196.242)  25.830 ms  28.211 ms  25.460 ms
+15  ip-208-113-156-14.dreamhost.com (208.113.156.14)  27.598 ms ip-208-113-156-8.dreamhost.com (208.113.156.8)  29.872 ms ip-208-113-156-14.dreamhost.com (208.113.156.14)  28.069 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.mykeru.com (51.77.185.114), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.602 ms  0.582 ms  0.593 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.758 ms  1.443 ms  2.363 ms
+ 3  162.247.144.38 (162.247.144.38)  0.838 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.422 ms 162.247.144.38 (162.247.144.38)  0.763 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.546 ms 172.97.107.193 (172.97.107.193)  11.787 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.567 ms
+ 5  * * *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.225 ms be100-1324.bhs-g2-nc5.qc.ca (192.99.146.140)  30.658 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.273 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.848 ms be100-1323.nwk-5-a9.nj.us (192.99.146.139)  37.692 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.366 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  11.916 ms  23.907 ms  13.453 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.478 ms *  9.452 ms
+10  be100-101.chi-1-a9.il.us (178.32.135.96)  11.632 ms * *
+11  be100-1320.bhs-g1-nc5.qc.ca (198.27.73.206)  29.258 ms *  29.597 ms
+12  be100-1319.nwk-1-a9.nj.us (198.27.73.205)  27.875 ms *  28.064 ms
+13  be100-1295.ldn-1-a9.uk.eu (192.99.146.126)  107.626 ms * *
+14  * be103.gra-g1-nc5.fr.eu (91.121.215.178)  111.063 ms *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to home.earthlink.net (209.86.60.21), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.607 ms  0.601 ms  0.585 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.628 ms  1.619 ms  2.371 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.419 ms  1.365 ms 162.247.144.38 (162.247.144.38)  0.749 ms
+ 4  162.247.144.34 (162.247.144.34)  1.195 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.643 ms  1.631 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.588 ms  1.648 ms  1.801 ms
+ 6  169.130.170.64 (169.130.170.64)  4.839 ms  5.994 ms  5.229 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.497 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  9.242 ms  4.877 ms
+ 8  ae10-0.cr01.atln02-ga.us.windstream.net (40.128.10.137)  35.395 ms  35.964 ms  35.941 ms
+ 9  h173.82.138.40.static.ip.windstream.net (40.138.82.173)  35.355 ms  35.566 ms  35.479 ms
+10  unassigned.transedge.com (216.217.0.83)  35.820 ms fe-0-0.agg1.rap.msp.transedge.com (216.217.0.85)  35.937 ms  36.004 ms
+11  209.165.105.66 (209.165.105.66)  35.550 ms 209.165.111.206 (209.165.111.206)  35.759 ms ae17-0.cr02.chcg01-il.us.windstream.net (40.128.10.145)  11.265 ms
+12  207.69.223.129 (207.69.223.129)  41.934 ms  41.655 ms ae10-0.cr01.atln02-ga.us.windstream.net (40.128.10.137)  33.301 ms
+13  dir01-vl66.ga-atlanta0.ne.earthlink.net (209.86.66.18)  37.112 ms  35.397 ms  35.859 ms
+14  * * unassigned.transedge.com (216.217.0.83)  34.193 ms
+15  * * 209.165.105.66 (209.165.105.66)  33.800 ms
+16  207.69.223.129 (207.69.223.129)  83.852 ms * *
+17  dir01-vl66.ga-atlanta0.ne.earthlink.net (209.86.66.18)  33.794 ms *  33.897 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to socialpsitina.weebly.com (199.34.228.54), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.602 ms  0.581 ms  0.573 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.624 ms  2.137 ms  1.586 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.470 ms  1.430 ms 162.247.144.38 (162.247.144.38)  0.883 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.444 ms 172.97.107.193 (172.97.107.193)  11.903 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.453 ms
+ 5  * * *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.689 ms * *
+ 7  palo-b22-link.telia.net (62.115.125.185)  56.725 ms  56.778 ms  56.662 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.558 ms  16.887 ms *
+ 9  chi-b21-link.telia.net (62.115.14.41)  9.966 ms * *
+10  * * *
+11  palo-b22-link.telia.net (62.115.125.185)  55.464 ms  55.553 ms  55.469 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.9622.net (128.14.144.128), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.594 ms  0.609 ms  0.558 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.570 ms  2.116 ms  2.820 ms
+ 3  162.247.144.38 (162.247.144.38)  0.777 ms  0.784 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.318 ms
+ 4  162.247.144.34 (162.247.144.34)  1.267 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.548 ms  1.693 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.642 ms  1.789 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.172 ms
+ 6  169.130.170.64 (169.130.170.64)  12.386 ms  4.839 ms  4.882 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.217 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  6.044 ms  6.886 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  16.664 ms ae2-0.cr02.chcg23-il.us.windstream.net (40.138.82.190)  14.064 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  9.787 ms
+ 9  ix-ae-12-0.tcore1.ct8-chicago.as6453.net (206.82.141.192)  11.061 ms prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.507 ms  9.558 ms
+10  * if-ae-52-55.tcore2.sqn-san-jose.as6453.net (63.243.129.21)  64.499 ms if-ae-29-2.tcore2.sqn-san-jose.as6453.net (64.86.21.104)  69.200 ms
+11  * if-ae-1-2.tcore1.sqn-san-jose.as6453.net (63.243.205.1)  72.122 ms *
+12  zenlayer-in.ear3.losangeles1.level3.net (4.15.163.234)  64.890 ms  64.562 ms  66.170 ms
+13  if-ae-0-2.tcore1.sv1-santa-clara.as6453.net (63.243.251.1)  71.475 ms 192.254.81.26 (192.254.81.26)  64.837 ms if-ge-12-0-0-15.mcore3.laa-los-angeles.as6453.net (64.86.252.86)  69.263 ms
+14  192.254.81.59 (192.254.81.59)  70.214 ms  66.707 ms 209.58.85.58 (209.58.85.58)  64.156 ms
+15  * 192.254.81.245 (192.254.81.245)  82.691 ms if-ge-10-0-0-12.mcore3.laa-los-angeles.as6453.net (66.110.59.54)  72.293 ms
+16  192.254.81.59 (192.254.81.59)  72.508 ms  71.933 ms 192.254.81.245 (192.254.81.245)  85.586 ms
+17  * * *
+18  192.254.81.59 (192.254.81.59)  67.724 ms * *
+19  * * 192.254.81.245 (192.254.81.245)  99.372 ms
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to desertoracle.com (69.195.124.149), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.610 ms  0.596 ms  0.585 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.929 ms  2.512 ms  1.495 ms
+ 3  162.247.144.38 (162.247.144.38)  0.939 ms  0.981 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.504 ms
+ 4  162.247.144.34 (162.247.144.34)  1.451 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.586 ms  1.585 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.762 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  6.015 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.576 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.257 ms 169.130.170.64 (169.130.170.64)  4.879 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.567 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.384 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.412 ms be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.439 ms
+ 8  be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.634 ms ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.425 ms  11.456 ms
+ 9  be2128.ccr41.ord01.atlas.cogentco.com (154.54.82.213)  12.267 ms  12.149 ms ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  67.100 ms
+10  ae-5.r21.chcgil09.us.bb.gin.ntt.net (129.250.4.213)  20.801 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  12.010 ms ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  20.737 ms
+11  ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  63.049 ms  67.290 ms ae-11.r08.chcgil09.us.bb.gin.ntt.net (129.250.9.121)  12.417 ms
+12  ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  28.735 ms ae-19.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.27)  63.545 ms  67.323 ms
+13  ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  63.790 ms  63.802 ms  63.865 ms
+14  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  70.627 ms ae-19.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.27)  63.855 ms ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  70.585 ms
+15  eth3-33-4.prvspn001.net.unifiedlayer.com (162.144.240.151)  70.562 ms eth3-33-3.prvspn001.net.unifiedlayer.com (162.144.240.143)  67.787 ms  67.698 ms
+16  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  67.170 ms po97.prv-leaf6b.net.unifiedlayer.com (162.144.240.19)  72.249 ms  68.291 ms
+17  eth4-33-3.prvspn002.net.unifiedlayer.com (162.144.240.161)  71.288 ms  67.280 ms box949.bluehost.com (69.195.124.149)  67.128 ms
+traceroute to SocialMediaTitans.com (67.222.39.86), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.609 ms  0.587 ms  0.559 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.517 ms  1.707 ms  2.274 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.726 ms  1.826 ms  3.484 ms
+ 4  162.247.144.34 (162.247.144.34)  1.257 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.646 ms 162.247.144.34 (162.247.144.34)  1.425 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.738 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.466 ms  5.521 ms
+ 6  169.130.170.64 (169.130.170.64)  5.055 ms  5.775 ms  5.165 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.902 ms be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.198 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.813 ms
+ 8  ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  12.638 ms  12.548 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.748 ms
+ 9  ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  67.046 ms be2129.ccr42.ord01.atlas.cogentco.com (154.54.82.225)  12.138 ms ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  66.979 ms
+10  ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  11.531 ms ae-5.r21.chcgil09.us.bb.gin.ntt.net (129.250.4.213)  11.498 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  12.340 ms
+11  ae-11.r08.chcgil09.us.bb.gin.ntt.net (129.250.9.121)  12.254 ms ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  67.010 ms  66.981 ms
+12  ae-40.r02.snjsca04.us.bb.gin.ntt.net (129.250.3.121)  63.177 ms ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  12.121 ms  12.185 ms
+13  ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  67.882 ms  67.969 ms ae-1.a01.snjsca04.us.bb.gin.ntt.net (129.250.2.48)  67.826 ms
+14  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  66.552 ms ae-19.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.27)  63.628 ms ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  70.580 ms
+15  eth3-33-3.prvspn001.net.unifiedlayer.com (162.144.240.143)  66.953 ms ae-0.a01.snjsca04.us.bb.gin.ntt.net (129.250.3.163)  63.615 ms eth3-33-3.prvspn001.net.unifiedlayer.com (162.144.240.143)  66.531 ms
+16  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  71.308 ms  67.138 ms  71.365 ms
+17  box2060.bluehost.com (67.222.39.86)  66.441 ms eth4-33-3.prvspn002.net.unifiedlayer.com (162.144.240.161)  67.108 ms box2060.bluehost.com (67.222.39.86)  70.469 ms
+traceroute to www.schoolblogs.com (45.88.202.115), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.594 ms  0.587 ms  0.552 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.325 ms  1.612 ms  1.840 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.564 ms  1.668 ms  1.710 ms
+ 4  162.247.144.34 (162.247.144.34)  1.769 ms  1.679 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.581 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.382 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.827 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.409 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  1.962 ms 169.130.170.64 (169.130.170.64)  4.909 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.769 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.114 ms  6.081 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.936 ms
+ 8  ae17-0.cr01.chcg01-il.us.windstream.net (40.128.10.144)  12.651 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  15.871 ms  11.857 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.545 ms  9.481 ms  9.593 ms
+10  1-5.r0.ixn.zur.ch.iptp.net (91.194.117.152)  115.958 ms *  115.944 ms
+11  t2-5.r0.r205.ixn.zrh.ch.iptp.net (87.239.188.226)  115.634 ms  115.702 ms  116.196 ms
+12  t2-5.r0.r205.ixn.zrh.ch.iptp.net (87.239.188.226)  113.976 ms  114.075 ms *
+13  45.88.202.115 (45.88.202.115)  114.725 ms *  114.912 ms
+traceroute to laacz.lv (136.243.37.224), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.606 ms  0.613 ms  0.604 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.535 ms  2.067 ms  1.402 ms
+ 3  162.247.144.38 (162.247.144.38)  0.788 ms  0.878 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.286 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.655 ms  1.720 ms  1.670 ms
+ 5  * * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.861 ms
+ 6  * * nyk-bb3-link.telia.net (80.91.246.163)  122.366 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  11.097 ms ldn-bb4-link.telia.net (62.115.112.245)  122.326 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  7.814 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  10.328 ms hbg-bb4-link.telia.net (62.115.122.160)  108.101 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  9.786 ms
+ 9  nug-b1-link.telia.net (62.115.113.175)  122.680 ms prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.521 ms nug-b1-link.telia.net (62.115.113.175)  122.649 ms
+10  * * *
+11  * * *
+12  ae0-3356.lon10.core-backbone.com (212.113.8.42)  93.284 ms * *
+13  * ae1-2075.fra30.core-backbone.com (80.255.14.37)  104.995 ms *
+14  * core-backbone.hetzner.com (80.255.15.122)  112.747 ms *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.iplegal.net (72.52.178.23), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.619 ms  0.624 ms  0.566 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.636 ms  1.862 ms  2.160 ms
+ 3  162.247.144.38 (162.247.144.38)  0.810 ms  0.898 ms  0.802 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.697 ms 172.97.107.193 (172.97.107.193)  11.715 ms  11.825 ms
+ 5  * * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  2.011 ms
+ 6  lw-dc3-core2-eth2-20.rtr.liquidweb.com (209.59.157.226)  33.550 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.647 ms  5.262 ms
+ 7  lw-dc3-dist14-po6.rtr.liquidweb.com (69.167.128.79)  33.725 ms lw-dc3-dist14-po5.rtr.liquidweb.com (69.167.128.75)  33.859 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.862 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.793 ms 72.52.178.23 (72.52.178.23)  32.660 ms  32.582 ms
+traceroute to www.sinoglot.com (139.162.4.209), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.636 ms  0.605 ms  0.603 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.572 ms  1.574 ms  2.166 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.448 ms  1.391 ms 162.247.144.38 (162.247.144.38)  0.767 ms
+ 4  162.247.144.34 (162.247.144.34)  1.250 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.701 ms  1.665 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.780 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.669 ms  1.620 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.168 ms 169.130.170.64 (169.130.170.64)  4.949 ms  4.928 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.634 ms  12.814 ms  12.653 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.121 ms ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.055 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  16.042 ms
+ 9  ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  212.778 ms prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.662 ms ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  212.527 ms
+10  pos5-3.br01.chc01.pccwbtn.net (63.218.5.17)  9.835 ms ae-7.r20.chcgil09.us.bb.gin.ntt.net (129.250.6.62)  17.562 ms pos5-3.br01.chc01.pccwbtn.net (63.218.5.17)  9.788 ms
+11  ae-7.r23.sttlwa01.us.bb.gin.ntt.net (129.250.3.42)  53.829 ms  53.813 ms  53.479 ms
+12  linode.be25-711.br04.sin02.pccwbtn.net (63.217.25.146)  231.061 ms ae-16.r24.osakjp02.jp.bb.gin.ntt.net (129.250.3.61)  143.021 ms linode.be25-711.br04.sin02.pccwbtn.net (63.217.25.146)  226.090 ms
+13  ae-0.r25.osakjp02.jp.bb.gin.ntt.net (129.250.2.151)  152.792 ms  154.451 ms  148.750 ms
+14  ae-0.r20.sngpsi07.sg.bb.gin.ntt.net (129.250.2.66)  212.920 ms  218.361 ms  218.336 ms
+15  * ae-1.r00.sngpsi07.sg.bb.gin.ntt.net (129.250.3.82)  212.464 ms *
+16  * 192.80.17.118 (192.80.17.118)  234.149 ms  235.862 ms
+17  139.162.0.10 (139.162.0.10)  223.088 ms 139.162.0.2 (139.162.0.2)  216.532 ms 139.162.0.10 (139.162.0.10)  219.334 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.brainstormoverload.com (64.13.232.202), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.654 ms  0.639 ms  0.591 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.582 ms  1.773 ms  2.412 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.535 ms 162.247.144.38 (162.247.144.38)  0.776 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.507 ms
+ 4  162.247.144.34 (162.247.144.34)  1.263 ms  1.196 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.607 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  2.158 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.404 ms  5.325 ms
+ 6  169.130.170.64 (169.130.170.64)  4.904 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.872 ms 169.130.170.64 (169.130.170.64)  5.243 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.013 ms  12.890 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.599 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  15.059 ms  15.079 ms  15.714 ms
+ 9  bbr02chcgil-bue-800.chcg.il.charter.com (96.34.0.67)  17.195 ms  10.199 ms  14.557 ms
+10  bbr01olvemo-bue-2.olve.mo.charter.com (96.34.0.13)  15.144 ms  15.233 ms 206.82.141.90 (206.82.141.90)  11.690 ms
+11  * * bbr01dnvrco-bue-1.dnvr.co.charter.com (96.34.0.144)  32.939 ms
+12  bbr02snjsca-bue-2.snjs.ca.charter.com (96.34.0.2)  63.034 ms  65.327 ms dls-b22-link.telia.net (62.115.125.159)  34.435 ms
+13  las-b24-link.telia.net (62.115.118.247)  65.054 ms  64.921 ms  64.960 ms
+14  hosteurope-ic-338676-las-b24.c.telia.net (62.115.171.243)  64.659 ms  64.558 ms  64.602 ms
+15  reserved.metro.la.ipv4.godaddy.com (206.223.123.32)  66.742 ms  66.631 ms  66.706 ms
+16  e2.2.cr02.lax01.mtsvc.net (72.10.63.166)  67.515 ms 72.10.63.106 (72.10.63.106)  65.083 ms e2.2.cr02.lax01.mtsvc.net (72.10.63.166)  67.774 ms
+17  72.10.63.106 (72.10.63.106)  66.922 ms 72.10.63.118 (72.10.63.118)  67.084 ms 72.10.63.106 (72.10.63.106)  67.154 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to homepages.together.net (209.86.60.63), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.607 ms  0.617 ms  0.555 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.652 ms  1.535 ms  2.202 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.549 ms  1.481 ms  1.596 ms
+ 4  162.247.144.34 (162.247.144.34)  1.352 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.559 ms 162.247.144.34 (162.247.144.34)  1.280 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.877 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.205 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.842 ms
+ 6  169.130.170.64 (169.130.170.64)  4.809 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.479 ms  6.533 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.602 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.093 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  11.253 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  16.566 ms  15.876 ms  15.836 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.766 ms  9.819 ms  9.832 ms
+10  * unassigned.transedge.com (216.217.0.83)  35.627 ms *
+11  ae17-0.cr02.chcg01-il.us.windstream.net (40.128.10.145)  11.014 ms 209.165.111.206 (209.165.111.206)  35.591 ms ae17-0.cr02.chcg01-il.us.windstream.net (40.128.10.145)  11.076 ms
+12  ae10-0.cr01.atln02-ga.us.windstream.net (40.128.10.137)  33.619 ms  33.470 ms  33.358 ms
+13  h173.82.138.40.static.ip.windstream.net (40.138.82.173)  33.370 ms  33.704 ms dir01-vl66.ga-atlanta0.ne.earthlink.net (209.86.66.18)  36.184 ms
+14  unassigned.transedge.com (216.217.0.83)  34.049 ms *  33.985 ms
+15  * * 209.165.111.206 (209.165.111.206)  33.879 ms
+16  * 207.69.223.129 (207.69.223.129)  34.081 ms *
+17  * * dir01-vl66.ga-atlanta0.ne.earthlink.net (209.86.66.18)  34.395 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to mightygodking.com (199.103.60.196), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.648 ms  0.585 ms  0.594 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.358 ms  1.515 ms  1.837 ms
+ 3  162.247.144.38 (162.247.144.38)  0.874 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.517 ms 162.247.144.38 (162.247.144.38)  0.853 ms
+ 4  172.97.107.193 (172.97.107.193)  11.731 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.705 ms  1.655 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.984 ms 10gigabitethernet4-1.core1.chi1.he.net (208.115.136.37)  11.812 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.989 ms
+ 6  100ge6-1.core1.tor1.he.net (184.105.80.6)  42.200 ms  41.015 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  1.818 ms
+ 7  cirrus-tech-ltd.10gigabitethernet1-1.core1.tor1.he.net (216.66.70.10)  20.159 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.495 ms cirrus-tech-ltd.10gigabitethernet1-1.core1.tor1.he.net (216.66.70.10)  20.664 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  17.107 ms 199.103.59.26 (199.103.59.26)  20.844 ms  21.122 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.623 ms  9.410 ms  9.479 ms
+10  199.103.60.196 (199.103.60.196)  20.946 ms  20.985 ms 100ge6-2.core2.chi1.he.net (184.105.250.37)  10.718 ms
+traceroute to www.anode.org (65.254.227.240), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.637 ms  0.622 ms  0.608 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.723 ms  2.282 ms  1.509 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.458 ms  1.472 ms 162.247.144.38 (162.247.144.38)  0.925 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.596 ms  1.587 ms  1.709 ms
+ 5  * * *
+ 6  be3028.ccr41.ord03.atlas.cogentco.com (154.54.12.37)  10.893 ms  11.579 ms  10.854 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.422 ms  7.154 ms be2766.ccr42.ord01.atlas.cogentco.com (154.54.46.177)  11.186 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  15.154 ms  16.004 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  15.476 ms
+ 9  be3745.ccr22.cle04.atlas.cogentco.com (154.54.30.129)  11.286 ms  11.255 ms be3744.ccr21.cle04.atlas.cogentco.com (154.54.0.145)  11.203 ms
+10  be2878.ccr21.alb02.atlas.cogentco.com (154.54.26.130)  22.235 ms be3599.ccr31.bos01.atlas.cogentco.com (66.28.4.238)  30.404 ms  30.354 ms
+11  be3599.ccr31.bos01.atlas.cogentco.com (66.28.4.238)  25.901 ms  26.012 ms be3600.ccr32.bos01.atlas.cogentco.com (154.54.0.222)  25.630 ms
+12  be3665.agr22.bos01.atlas.cogentco.com (154.54.87.110)  26.000 ms te0-0-2-0.nr11.b006523-1.bos01.atlas.cogentco.com (154.24.15.94)  30.490 ms be3662.agr21.bos01.atlas.cogentco.com (154.54.87.98)  26.001 ms
+13  te0-0-2-1.nr11.b006523-1.bos01.atlas.cogentco.com (154.24.15.98)  26.667 ms 38.104.252.54 (38.104.252.54)  30.334 ms te0-0-2-1.nr11.b006523-1.bos01.atlas.cogentco.com (154.24.15.98)  26.715 ms
+14  34.225.148.207.static.yourhostingaccount.com (207.148.225.34)  30.590 ms 38.104.252.54 (38.104.252.54)  26.282 ms 34.225.148.207.static.yourhostingaccount.com (207.148.225.34)  30.417 ms
+15  34.225.148.207.static.yourhostingaccount.com (207.148.225.34)  26.152 ms 65-254-227-240.yourhostingaccount.com (65.254.227.240)  31.148 ms 34.225.148.207.static.yourhostingaccount.com (207.148.225.34)  26.141 ms
+traceroute to cajon-desastre.blogspot.com (172.217.9.33), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.620 ms  0.631 ms  0.619 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.482 ms  1.807 ms  1.602 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.591 ms  1.487 ms  1.592 ms
+ 4  172.97.107.193 (172.97.107.193)  12.540 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.581 ms  1.572 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.852 ms *  1.896 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.624 ms  3.433 ms 108.170.243.193 (108.170.243.193)  12.541 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.360 ms  7.908 ms 72.14.239.111 (72.14.239.111)  10.919 ms
+ 8  ord38s08-in-f1.1e100.net (172.217.9.33)  12.197 ms  12.245 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.211 ms
+traceroute to www.elsaofismobilya.com (94.101.92.143), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.640 ms  0.593 ms  0.584 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.456 ms  2.110 ms  1.522 ms
+ 3  162.247.144.38 (162.247.144.38)  0.928 ms  0.836 ms  0.928 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.662 ms  1.722 ms 162.247.144.34 (162.247.144.34)  1.306 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.563 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.655 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.486 ms
+ 6  169.130.170.64 (169.130.170.64)  4.886 ms  5.235 ms  4.916 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  6.911 ms  11.009 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.604 ms
+ 8  ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.328 ms  11.257 ms  11.297 ms
+ 9  ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  108.476 ms  108.379 ms  11.339 ms
+10  ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  11.190 ms *  11.056 ms
+11  ae-1.r23.asbnva02.us.bb.gin.ntt.net (129.250.2.138)  25.534 ms *  28.335 ms
+12  ae-2.r25.amstnl02.nl.bb.gin.ntt.net (129.250.6.163)  108.866 ms  108.527 ms 62.67.19.250 (62.67.19.250)  106.847 ms
+13  212.156.101.231.static.turktelekom.com.tr (212.156.101.231)  144.544 ms 00-atakoy-xrs-t2-2---301-fra-col-3.statik.turktelekom.com.tr (212.156.101.191)  145.390 ms 212.156.101.231.static.turktelekom.com.tr (212.156.101.231)  144.488 ms
+14  212.156.120.27.static.turktelekom.com.tr (212.156.120.27)  144.196 ms  144.358 ms 00-metrocity-t3-1---00-atakoy-xrs-t2-2.statik.turktelekom.com.tr (195.175.174.194)  145.340 ms
+15  195.175.208.142.static.turktelekom.com.tr (195.175.208.142)  143.299 ms 00-gayrettepe-xrs-t2-2---302-ams-col-2.statik.turktelekom.com.tr (212.156.102.74)  147.860 ms 195.175.208.142.static.turktelekom.com.tr (195.175.208.142)  147.005 ms
+16  195.175.208.142.static.turktelekom.com.tr (195.175.208.142)  150.964 ms 212.156.120.27.static.turktelekom.com.tr (212.156.120.27)  147.464 ms 00-metrocity-t3-1---00-gayrettepe-xrs-t2-1.statik.turktelekom.com.tr (212.156.251.125)  142.222 ms
+17  * * *
+18  * 195.175.208.142.static.turktelekom.com.tr (195.175.208.142)  163.052 ms *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.kei.com (96.45.82.132), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.647 ms  0.637 ms  0.571 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.534 ms  2.266 ms  1.440 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.409 ms  1.530 ms 162.247.144.38 (162.247.144.38)  0.878 ms
+ 4  172.97.107.193 (172.97.107.193)  11.752 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.590 ms 172.97.107.193 (172.97.107.193)  11.788 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.635 ms  1.859 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.204 ms nyk-bb4-link.telia.net (62.115.137.58)  32.842 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  1.504 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.185 ms ash-bb4-link.telia.net (62.115.136.201)  31.684 ms  31.797 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.531 ms ash-b1-link.telia.net (62.115.143.121)  31.381 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.561 ms
+ 9  chi-b21-link.telia.net (62.115.14.41)  10.807 ms  9.697 ms *
+10  * nyk-bb4-link.telia.net (62.115.137.58)  31.217 ms *
+11  * * ash-bb4-link.telia.net (62.115.136.201)  30.344 ms
+12  ash-b1-link.telia.net (80.91.248.157)  32.956 ms *  32.762 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to fishinglidokey.com (50.31.99.1), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.618 ms  0.589 ms  0.583 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  2.027 ms  2.797 ms  1.601 ms
+ 3  162.247.144.38 (162.247.144.38)  0.961 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.523 ms 162.247.144.38 (162.247.144.38)  0.883 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.669 ms 172.97.107.193 (172.97.107.193)  12.046 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.632 ms
+ 5  eqix1.chi01.steadfast.net (208.115.136.34)  11.927 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.930 ms eqix1.chi01.steadfast.net (208.115.136.34)  11.895 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.536 ms te9-2.dist01.chi18.steadfast.net (208.100.32.74)  12.549 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.195 ms
+ 7  ip125.50-31-21.static.steadfastdns.net (50.31.21.125)  12.750 ms  12.685 ms  12.704 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.110 ms node1.webplanethosting.com (208.117.38.5)  12.024 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  9.831 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  nozone-inc.ear2.chicago2.level3.net (4.71.248.202)  10.726 ms *  10.773 ms
+13  * te9-2.dist01.chi18.steadfast.net (208.100.32.74)  11.299 ms  11.286 ms
+14  * * ip125.50-31-21.static.steadfastdns.net (50.31.21.125)  13.017 ms
+15  node1.webplanethosting.com (208.117.38.5)  10.850 ms  10.909 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to ghostinthewire.org (188.165.53.185), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.613 ms  0.636 ms  0.574 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.578 ms  1.506 ms  1.947 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.576 ms 162.247.144.38 (162.247.144.38)  0.847 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.613 ms
+ 4  172.97.107.193 (172.97.107.193)  12.148 ms  12.174 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.934 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.678 ms  1.895 ms *
+ 6  be100-1324.bhs-g2-nc5.qc.ca (192.99.146.140)  30.797 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.214 ms be100-1324.bhs-g2-nc5.qc.ca (192.99.146.140)  30.362 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  8.461 ms be100-1323.nwk-5-a9.nj.us (192.99.146.139)  37.252 ms  37.306 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.169 ms be100-1298.ldn-5-a9.uk.eu (192.99.146.132)  108.660 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.809 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.477 ms * *
+10  be100-101.chi-1-a9.il.us (178.32.135.96)  11.630 ms *  11.601 ms
+11  be100-1320.bhs-g1-nc5.qc.ca (198.27.73.206)  30.756 ms be7.gra-iplb1-a70.fr.eu (37.187.232.185)  110.293 ms  110.205 ms
+12  be100-1319.nwk-1-a9.nj.us (198.27.73.205)  27.769 ms  27.575 ms *
+13  * be100-1295.ldn-1-a9.uk.eu (192.99.146.126)  107.590 ms  107.335 ms
+14  be103.gra-g1-nc5.fr.eu (91.121.215.178)  109.752 ms  110.021 ms *
+15  * * *
+16  * be5.gra-iplb2-a70.fr.eu (37.187.232.187)  109.897 ms  109.811 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.foodanddating.com (104.28.23.56), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.616 ms  0.600 ms  0.586 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.511 ms  1.551 ms  1.896 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.435 ms 162.247.144.38 (162.247.144.38)  0.811 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.416 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.687 ms  1.674 ms  1.835 ms
+ 5  * * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.997 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  5.945 ms 104.28.23.56 (104.28.23.56)  13.076 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.106 ms
+traceroute to www.naskita.com (173.236.46.18), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.624 ms  0.592 ms  0.587 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.407 ms  1.386 ms  1.954 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.395 ms  1.854 ms 162.247.144.38 (162.247.144.38)  1.067 ms
+ 4  172.97.107.193 (172.97.107.193)  11.954 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.567 ms  1.709 ms
+ 5  * * *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.029 ms  8.665 ms  1.979 ms
+ 7  agg1.c13.r02.s101.chi03.singlehop.net (67.212.190.254)  12.216 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  9.662 ms  4.882 ms
+ 8  asw1.c01.r03.s101.chi03.singlehop.net (67.212.190.158)  12.773 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.744 ms  14.370 ms
+ 9  * * chi-b21-link.telia.net (62.115.14.41)  9.712 ms
+10  * * serverhub-ic-324864-chi-b21.c.telia.net (62.115.154.247)  10.360 ms
+11  agg1.c13.r02.s101.chi03.singlehop.net (67.212.190.254)  11.862 ms  10.295 ms  10.497 ms
+12  asw1.c01.r03.s101.chi03.singlehop.net (67.212.190.158)  10.313 ms  11.997 ms *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.vlarkinanderson.com (198.185.159.145), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.611 ms  0.643 ms  0.559 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.625 ms  2.200 ms  2.789 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.400 ms  1.563 ms 162.247.144.38 (162.247.144.38)  0.925 ms
+ 4  172.97.107.193 (172.97.107.193)  12.604 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.507 ms 172.97.107.193 (172.97.107.193)  12.501 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.705 ms  1.849 ms  1.673 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.767 ms  7.871 ms  7.256 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  8.919 ms  7.664 ms  9.473 ms
+ 8  ae121.access-a.sech-ord.netarch.akamai.com (23.57.98.251)  11.409 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  17.064 ms  13.073 ms
+ 9  chi-b21-link.telia.net (62.115.14.41)  9.781 ms 93.191.173.221 (93.191.173.221)  134.541 ms chi-b21-link.telia.net (62.115.14.41)  9.702 ms
+10  * * *
+11  198.185.159.145 (198.185.159.145)  48.155 ms po110.bs-b.sech-ord.netarch.akamai.com (23.57.98.245)  9.571 ms  9.511 ms
+traceroute to www.DakotaSillyman.com (198.49.23.144), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.626 ms  0.592 ms  0.574 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.511 ms  2.164 ms  1.673 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.542 ms 162.247.144.38 (162.247.144.38)  0.868 ms  0.810 ms
+ 4  172.97.107.193 (172.97.107.193)  11.832 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.639 ms  1.626 ms
+ 5  akamai.prolexic.com (208.115.136.35)  11.047 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.622 ms  1.726 ms
+ 6  po110.bs-b.sech-ord.netarch.akamai.com (23.57.98.245)  10.706 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.803 ms po110.bs-a.sech-ord.netarch.akamai.com (23.57.98.243)  10.980 ms
+ 7  a72-52-1-137.deploy.static.akamaitechnologies.com (72.52.1.137)  11.213 ms  11.086 ms  11.075 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  15.798 ms  11.922 ms  13.279 ms
+ 9  chi-b21-link.telia.net (62.115.14.41)  9.698 ms  9.708 ms 93.191.173.229 (93.191.173.229)  35.443 ms
+10  * * *
+11  po110.bs-a.sech-ord.netarch.akamai.com (23.57.98.243)  9.496 ms 198.49.23.144 (198.49.23.144)  47.684 ms  50.817 ms
+traceroute to mikeskalnik.com (216.239.38.21), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.628 ms  0.652 ms  0.595 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.460 ms  2.607 ms  2.028 ms
+ 3  162.247.144.38 (162.247.144.38)  0.811 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.416 ms 162.247.144.38 (162.247.144.38)  0.789 ms
+ 4  172.97.107.193 (172.97.107.193)  11.855 ms  11.811 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.563 ms
+ 5  * * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.614 ms
+ 6  108.170.243.225 (108.170.243.225)  13.316 ms 108.170.243.193 (108.170.243.193)  12.573 ms  12.783 ms
+ 7  216.239.42.107 (216.239.42.107)  12.694 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  9.821 ms 216.239.51.145 (216.239.51.145)  13.785 ms
+ 8  any-in-2615.1e100.net (216.239.38.21)  10.853 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  16.873 ms any-in-2615.1e100.net (216.239.38.21)  10.790 ms
+traceroute to www.techstuff.ca (66.84.0.158), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.647 ms  0.599 ms  0.589 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.848 ms  2.397 ms  1.443 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.462 ms 162.247.144.38 (162.247.144.38)  0.798 ms  0.798 ms
+ 4  162.247.144.34 (162.247.144.34)  1.154 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.489 ms 162.247.144.34 (162.247.144.34)  1.164 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.258 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.708 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.298 ms
+ 6  169.130.170.64 (169.130.170.64)  5.331 ms  4.797 ms  4.839 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.380 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.335 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.286 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  15.413 ms  15.283 ms ae17-0.cr01.chcg01-il.us.windstream.net (40.128.10.144)  13.808 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.523 ms *  9.500 ms
+10  et-3-0-0.701-core1.expedient.com (66.230.78.198)  30.953 ms  30.858 ms 4.68.127.133 (4.68.127.133)  9.557 ms
+11  ae-8-14.bar2.cleveland1.level3.net (4.69.135.122)  20.998 ms ae2.701-core2.expedient.com (66.230.78.174)  45.590 ms ae-8-14.bar2.cleveland1.level3.net (4.69.135.122)  20.987 ms
+12  expedient.bar2.cleveland1.level3.net (4.53.198.42)  24.012 ms  24.071 ms et-14-0-0.dub-core.expedient.com (66.230.78.201)  31.123 ms
+13  et-2-2-0.upa-core2.expedient.com (209.143.64.14)  29.810 ms et-1-0-0.151-core1.expedient.com (216.130.12.194)  24.115 ms et-2-2-0.upa-core2.expedient.com (209.143.64.14)  30.084 ms
+14  ten2-7-2.upa-colo.expedient.com (66.230.78.133)  23.014 ms  23.057 ms  23.174 ms
+15  sw1-jumpline.cust.e-xpedient.com (66.11.1.179)  24.279 ms et-1-0-0.152-core2.expedient.com (209.221.26.118)  24.337 ms sw1-jumpline.cust.e-xpedient.com (66.11.1.179)  24.208 ms
+16  et-14-0-0.dub-core.expedient.com (66.230.78.201)  37.768 ms  37.927 ms et-0-2-0.acm-core1.expedient.com (66.230.78.193)  27.163 ms
+17  et-2-2-0.upa-core2.expedient.com (209.143.64.14)  37.384 ms  37.366 ms *
+18  et-2-2-0.upa-core1.expedient.com (209.166.144.210)  32.121 ms * ten2-7-2.upa-colo.expedient.com (66.230.78.133)  30.220 ms
+19  * sw1-jumpline.cust.e-xpedient.com (66.11.1.179)  32.786 ms ten1-7-2.upa-colo.expedient.com (66.230.78.129)  25.026 ms
+20  * sw1-jumpline.cust.e-xpedient.com (66.11.1.179)  26.665 ms  26.698 ms
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to bitentropy.info (183.90.228.26), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.661 ms  0.603 ms  0.627 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.388 ms  1.942 ms  2.420 ms
+ 3  162.247.144.38 (162.247.144.38)  0.875 ms  0.815 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.321 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.742 ms  1.744 ms 162.247.144.34 (162.247.144.34)  1.219 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.136 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  2.021 ms  1.968 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.791 ms 169.130.170.64 (169.130.170.64)  6.519 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.891 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.510 ms  7.584 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.697 ms
+ 8  ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.165 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.741 ms  8.724 ms
+ 9  be2128.ccr41.ord01.atlas.cogentco.com (154.54.82.213)  12.397 ms ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  147.214 ms  147.169 ms
+10  be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  12.017 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  12.131 ms ae-0.r20.chcgil09.us.bb.gin.ntt.net (129.250.2.191)  12.011 ms
+11  ae-11.r08.chcgil09.us.bb.gin.ntt.net (129.250.9.121)  12.572 ms  12.727 ms  12.378 ms
+12  ae-16.r24.osakjp02.jp.bb.gin.ntt.net (129.250.3.61)  149.258 ms  161.849 ms ae-0.r20.chcgil09.us.bb.gin.ntt.net (129.250.2.191)  104.987 ms
+13  ae-7.r23.sttlwa01.us.bb.gin.ntt.net (129.250.3.42)  54.626 ms  54.758 ms  55.887 ms
+14  ae-2.a00.osakjp02.jp.bb.gin.ntt.net (129.250.3.88)  155.008 ms ae-2.a01.osakjp02.jp.bb.gin.ntt.net (129.250.3.106)  161.377 ms ae-16.r24.osakjp02.jp.bb.gin.ntt.net (129.250.3.61)  161.411 ms
+15  ae-1.r03.osakjp02.jp.bb.gin.ntt.net (129.250.7.31)  149.550 ms xe-0-0-14-2.a00.osakjp02.jp.ce.gin.ntt.net (61.200.91.186)  159.253 ms xe-0-0-19-1.a01.osakjp02.jp.ce.gin.ntt.net (61.200.82.178)  171.768 ms
+16  ae-1.a00.osakjp02.jp.bb.gin.ntt.net (129.250.3.210)  146.366 ms *  150.159 ms
+17  xe-0-0-14-2.a00.osakjp02.jp.ce.gin.ntt.net (61.200.91.186)  159.957 ms * *
+18  * * *
+19  210.188.211.52 (210.188.211.52)  155.317 ms * *
+20  * * *
+21  * * 210.188.211.52 (210.188.211.52)  155.984 ms
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.6ixdegrees.com (23.20.239.12), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.621 ms  0.622 ms  0.581 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.509 ms  2.093 ms  1.558 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.505 ms 162.247.144.38 (162.247.144.38)  0.851 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.500 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.584 ms  1.656 ms 172.97.107.193 (172.97.107.193)  12.767 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  2.043 ms * *
+ 6  * * *
+ 7  * * bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  8.178 ms
+ 8  * bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  10.998 ms *
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.587 ms * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * 54.240.229.149 (54.240.229.149)  26.021 ms *
+16  * * *
+17  * 54.240.229.139 (54.240.229.139)  26.458 ms *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to serialconsign.com (173.255.131.205), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.629 ms  0.588 ms  0.590 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.453 ms  1.563 ms  2.138 ms
+ 3  162.247.144.38 (162.247.144.38)  0.849 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.445 ms 162.247.144.38 (162.247.144.38)  0.860 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.618 ms  1.606 ms 172.97.107.193 (172.97.107.193)  14.576 ms
+ 5  * * *
+ 6  * * bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.419 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  9.865 ms  7.952 ms  5.784 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  9.495 ms  11.230 ms  15.240 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.614 ms 206.130.126.10.west-datacenter.net (206.130.126.10)  48.792 ms 206.130.126.14.west-datacenter.net (206.130.126.14)  48.739 ms
+10  * * 206.130.126.61.west-datacenter.net (206.130.126.61)  49.103 ms
+11  4.69.137.41 (4.69.137.41)  44.147 ms  44.073 ms slmp-550-91.slc.westdc.net (173.255.131.205)  48.792 ms
+traceroute to caffeinedout.com (162.241.224.245), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.609 ms  0.594 ms  0.610 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.549 ms  1.969 ms  2.497 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.665 ms 162.247.144.38 (162.247.144.38)  0.843 ms  0.893 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.640 ms 162.247.144.34 (162.247.144.34)  1.422 ms  1.313 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.500 ms  5.384 ms  5.460 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.335 ms  7.834 ms  5.107 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  6.479 ms  9.730 ms  10.977 ms
+ 8  ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.306 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  15.605 ms  13.867 ms
+ 9  prr02chcgil-bue-3.chcg.il.charter.com (96.34.3.114)  9.430 ms  9.480 ms  9.583 ms
+10  ae-7.r20.chcgil09.us.bb.gin.ntt.net (129.250.6.62)  11.238 ms  25.653 ms be-204-pe04.350ecermak.il.ibone.comcast.net (23.30.206.169)  9.542 ms
+11  be-10588-cr02.350ecermak.il.ibone.comcast.net (68.86.83.49)  10.148 ms  10.078 ms  9.984 ms
+12  be-10506-cr01.chicago.il.ibone.comcast.net (68.86.86.230)  9.932 ms ae-5.r11.dllstx09.us.bb.gin.ntt.net (129.250.5.24)  35.419 ms be-10506-cr01.chicago.il.ibone.comcast.net (68.86.86.230)  12.069 ms
+13  be-10614-cr02.56marietta.ga.ibone.comcast.net (68.86.84.142)  26.517 ms ae-0.a01.dllstx04.us.bb.gin.ntt.net (129.250.4.178)  32.051 ms ae-1.a01.dllstx04.us.bb.gin.ntt.net (129.250.2.164)  35.671 ms
+14  ae-0.endurance.dllstx04.us.bb.gin.ntt.net (131.103.117.102)  43.932 ms  41.169 ms  41.180 ms
+15  216.117.50.146 (216.117.50.146)  56.699 ms be-12393-pe01.westwaypark.tx.ibone.comcast.net (68.86.82.130)  40.328 ms 216.117.50.146 (216.117.50.146)  54.860 ms
+16  as8075-1.2001sixthave.wa.ibone.comcast.net (75.149.230.54)  40.225 ms po100.router2b.hou1.net.unifiedlayer.com (162.241.0.5)  43.905 ms as8075-1.2001sixthave.wa.ibone.comcast.net (75.149.230.54)  40.270 ms
+17  108.167.150.118 (108.167.150.118)  43.481 ms 108.167.150.122 (108.167.150.122)  44.117 ms 216.117.50.150 (216.117.50.150)  40.782 ms
+18  po101.router2a.hou1.net.unifiedlayer.com (162.241.0.7)  40.050 ms box5224.bluehost.com (162.241.224.245)  40.913 ms  43.672 ms
+traceroute to www.plinko.net (68.66.216.55), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.664 ms  0.599 ms  0.574 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.543 ms  1.449 ms  2.103 ms
+ 3  162.247.144.38 (162.247.144.38)  0.857 ms  0.887 ms  0.852 ms
+ 4  172.97.107.193 (172.97.107.193)  12.167 ms  12.074 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.419 ms
+ 5  * * *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  9.139 ms toro-b1-link.telia.net (62.115.118.231)  20.985 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.512 ms
+ 7  * be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.326 ms  7.296 ms
+ 8  be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.882 ms 192.69.119.193 (192.69.119.193)  23.024 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.610 ms
+ 9  75.98.175.255.static.a2webhosting.com (75.98.175.255)  23.329 ms  23.519 ms be3744.ccr21.cle04.atlas.cogentco.com (154.54.0.145)  11.380 ms
+10  mi3-ls11.a2hosting.com (68.66.216.55)  28.180 ms  28.348 ms  28.273 ms
+traceroute to homepage.mac.com (17.146.233.11), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.613 ms  0.635 ms  0.590 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.566 ms  2.061 ms  2.785 ms
+ 3  162.247.144.38 (162.247.144.38)  0.928 ms  0.968 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.462 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.538 ms 172.97.107.193 (172.97.107.193)  12.037 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.605 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.754 ms eqix-ch1.apple-1.com (208.115.136.182)  12.381 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.580 ms
+ 6  17.1.0.88 (17.1.0.88)  66.071 ms 17.1.0.108 (17.1.0.108)  63.988 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  5.947 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  6.588 ms 17.1.0.113 (17.1.0.113)  63.973 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  6.758 ms
+ 8  17.0.8.35 (17.0.8.35)  64.456 ms  64.358 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  14.229 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.850 ms 17.0.9.253 (17.0.9.253)  67.030 ms 17.0.9.255 (17.0.9.255)  64.142 ms
+10  17.1.148.73 (17.1.148.73)  11.018 ms  11.046 ms *
+11  17.0.11.153 (17.0.11.153)  63.666 ms  63.776 ms  63.756 ms
+12  17.1.0.119 (17.1.0.119)  62.499 ms 17.1.0.113 (17.1.0.113)  62.633 ms 17.1.0.119 (17.1.0.119)  62.562 ms
+13  17.148.254.61 (17.148.254.61)  64.160 ms 17.0.8.35 (17.0.8.35)  62.474 ms 17.0.8.55 (17.0.8.55)  62.408 ms
+14  * 17.0.9.63 (17.0.9.63)  62.430 ms *
+15  * * *
+16  * * 17.0.11.149 (17.0.11.149)  62.659 ms
+17  17.0.65.75 (17.0.65.75)  62.345 ms 17.0.65.73 (17.0.65.73)  62.307 ms *
+18  17.148.254.59 (17.148.254.59)  62.591 ms 17.148.254.79 (17.148.254.79)  62.560 ms 17.148.254.69 (17.148.254.69)  62.551 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to SFBayArea.com (69.172.201.153), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.601 ms  0.574 ms  0.578 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.560 ms  2.888 ms  2.173 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.349 ms 162.247.144.38 (162.247.144.38)  0.994 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.345 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.677 ms  1.664 ms  1.811 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.575 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.921 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  7.657 ms
+ 6  169.130.170.64 (169.130.170.64)  5.121 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.190 ms  7.018 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.268 ms  7.384 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.588 ms
+ 8  be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.576 ms  8.944 ms ae2-0.cr02.chcg23-il.us.windstream.net (40.138.82.190)  12.719 ms
+ 9  be2129.ccr42.ord01.atlas.cogentco.com (154.54.82.225)  12.207 ms be3744.ccr21.cle04.atlas.cogentco.com (154.54.0.145)  11.244 ms ix-ae-12-0.tcore1.ct8-chicago.as6453.net (206.82.141.192)  11.057 ms
+10  be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  12.219 ms be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  11.877 ms if-ae-52-55.tcore2.sqn-san-jose.as6453.net (63.243.129.21)  66.002 ms
+11  if-ae-1-2.tcore1.sqn-san-jose.as6453.net (63.243.205.1)  66.154 ms ix-ae-16-0.tcore1.tnk-toronto.as6453.net (64.86.33.98)  18.564 ms tata.ord03.atlas.cogentco.com (154.54.10.162)  11.872 ms
+12  if-ae-13-33.tcore2.lvw-los-angeles.as6453.net (64.86.252.1)  66.396 ms if-ae-52-55.tcore2.sqn-san-jose.as6453.net (63.243.129.21)  66.782 ms if-ae-13-44.tcore2.lvw-los-angeles.as6453.net (64.86.252.26)  70.994 ms
+13  if-ae-1-2.tcore1.sqn-san-jose.as6453.net (63.243.205.1)  66.802 ms  67.056 ms  66.686 ms
+14  * if-ae-13-2.tcore2.lvw-los-angeles.as6453.net (63.243.205.66)  71.784 ms *
+15  if-ae-6-20.tcore1.eql-los-angeles.as6453.net (64.86.252.66)  71.840 ms * *
+16  if-ae-13-33.tcore2.lvw-los-angeles.as6453.net (64.86.252.1)  78.472 ms * *
+17  * * if-ae-6-20.tcore1.eql-los-angeles.as6453.net (64.86.252.66)  74.224 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to blog.theredstick.net (66.6.44.4), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.604 ms  0.592 ms  0.582 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.589 ms  2.272 ms  2.982 ms
+ 3  162.247.144.38 (162.247.144.38)  1.299 ms  1.338 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.465 ms
+ 4  172.97.107.193 (172.97.107.193)  12.264 ms  12.173 ms  13.023 ms
+ 5  208.115.136.16 (208.115.136.16)  16.842 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.645 ms 208.115.136.16 (208.115.136.16)  16.766 ms
+ 6  ae-9.pat2.bfz.yahoo.com (216.115.101.199)  27.316 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.020 ms ae-0.pat2.bfy.yahoo.com (216.115.97.204)  24.331 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  6.454 ms  10.765 ms  9.863 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.976 ms  11.857 ms et-19-1-0.msr2.bf1.yahoo.com (74.6.227.141)  28.874 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.600 ms  9.824 ms  9.835 ms
+10  lo0.lef1-1-tba.bf2.yahoo.com (74.6.64.132)  28.797 ms xe-5-1-11.msr2.md2.yahoo.com (216.115.100.77)  11.091 ms ge-3-1-3.pat1.mia.yahoo.com (216.115.100.160)  11.014 ms
+11  ae-10.pat2.bfy.yahoo.com (184.165.16.0)  23.498 ms  23.442 ms lo0.spn1-1-tba.bf2.yahoo.com (74.6.64.128)  27.400 ms
+12  et-2-1-1.pat1.bfz.yahoo.com (216.115.104.77)  27.452 ms lo0.spn3-1-tba.bf2.yahoo.com (74.6.64.130)  27.082 ms lo0.spn4-2-tba.bf2.yahoo.com (74.6.64.147)  28.920 ms
+13  lo0.tor65-84-tba.bf2.yahoo.com (74.6.64.83)  27.588 ms et-18-0-1.msr1.bf1.yahoo.com (74.6.227.131)  27.254 ms lo0.tor64-83-tba.bf2.yahoo.com (74.6.64.82)  27.447 ms
+14  lo0.egr4-4-tba.bf2.yahoo.com (74.6.64.3)  26.026 ms * et-0-1-0.clr2-a-gdc.bf2.yahoo.com (74.6.122.25)  26.259 ms
+15  * * *
+16  lo0.spn4-2-tba.bf2.yahoo.com (74.6.64.147)  27.328 ms lo0.spn1-2-tba.bf2.yahoo.com (74.6.64.144)  27.193 ms *
+17  * lo0.lef5-2-tba.bf2.yahoo.com (74.6.64.152)  25.862 ms lo0.spn1-2-tba.bf2.yahoo.com (74.6.64.144)  27.273 ms
+18  lo0.tor55-71-tba.bf2.yahoo.com (74.6.64.70)  25.762 ms * lo0.tor63-77-tba.bf2.yahoo.com (74.6.64.76)  27.293 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.brubakers.us (192.3.201.65), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.611 ms  0.600 ms  0.570 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.512 ms  1.578 ms  2.132 ms
+ 3  162.247.144.38 (162.247.144.38)  0.871 ms  0.819 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.375 ms
+ 4  172.97.107.193 (172.97.107.193)  11.752 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.558 ms  2.953 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.966 ms * *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  2.589 ms  6.266 ms  4.374 ms
+ 7  colocrossing-ic-314282-buf-b1.c.telia.net (62.115.59.94)  23.233 ms colocrossing-ic-314281-buf-b1.c.telia.net (62.115.59.90)  23.237 ms colocrossing-ic-317200-buf-b1.c.telia.net (62.115.145.91)  23.133 ms
+ 8  be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.653 ms  8.717 ms *
+ 9  * * be3745.ccr22.cle04.atlas.cogentco.com (154.54.30.129)  11.175 ms
+10  be3157.rcr21.buf02.atlas.cogentco.com (154.54.47.126)  16.190 ms *  17.572 ms
+11  38.122.37.114 (38.122.37.114)  18.804 ms  18.887 ms *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.staffs.ac.uk (185.18.139.26), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.620 ms  0.583 ms  0.579 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.570 ms  1.423 ms  2.071 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.409 ms  1.358 ms 162.247.144.38 (162.247.144.38)  0.881 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.654 ms 172.97.107.193 (172.97.107.193)  11.820 ms  11.769 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.942 ms  1.563 ms *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  2.092 ms  6.560 ms  4.907 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  8.338 ms ae-1-3110.edge3.london1.level3.net (4.69.140.198)  108.867 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  9.494 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.786 ms l1-br-02.zengenti.com (185.18.138.44)  104.093 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.030 ms
+ 9  * prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.635 ms  9.413 ms
+10  * * *
+11  * ae-1-3110.edge3.london1.level3.net (4.69.140.198)  100.213 ms  100.109 ms
+12  l1-br-02.zengenti.com (185.18.138.44)  100.223 ms * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to tenatatime.wordpress.com (192.0.78.13), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.611 ms  0.593 ms  0.596 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.612 ms  2.268 ms  2.874 ms
+ 3  162.247.144.38 (162.247.144.38)  0.883 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.538 ms 162.247.144.38 (162.247.144.38)  0.861 ms
+ 4  172.97.107.193 (172.97.107.193)  11.813 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.361 ms  1.502 ms
+ 5  * * *
+ 6  192.0.78.13 (192.0.78.13)  12.197 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.042 ms 192.0.78.13 (192.0.78.13)  12.215 ms
+traceroute to www.jkachel.com (167.71.85.114), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.618 ms  0.598 ms  0.601 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.272 ms  1.525 ms  2.194 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.446 ms 162.247.144.38 (162.247.144.38)  0.850 ms  0.766 ms
+ 4  172.97.107.193 (172.97.107.193)  15.613 ms  15.625 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.589 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.910 ms * *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  2.438 ms  9.519 ms nyk-bb4-link.telia.net (62.115.137.58)  27.678 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  6.277 ms nyk-b3-link.telia.net (62.115.140.223)  27.279 ms nyk-b3-link.telia.net (62.115.139.151)  27.206 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.649 ms *  15.292 ms
+ 9  * prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.787 ms *
+10  167.71.85.114 (167.71.85.114)  28.648 ms  28.702 ms 4.68.127.133 (4.68.127.133)  9.657 ms
+traceroute to www.nfndesigns.com (66.33.213.253), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.607 ms  0.619 ms  0.561 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.666 ms  1.614 ms  2.343 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.400 ms  1.501 ms 162.247.144.38 (162.247.144.38)  0.780 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.529 ms  1.678 ms 162.247.144.34 (162.247.144.34)  1.166 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.883 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.214 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.872 ms
+ 6  169.130.170.64 (169.130.170.64)  4.848 ms  4.919 ms  4.911 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.276 ms  7.434 ms  7.419 ms
+ 8  be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.975 ms ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.371 ms  11.401 ms
+ 9  be3744.ccr21.cle04.atlas.cogentco.com (154.54.0.145)  11.512 ms be3745.ccr22.cle04.atlas.cogentco.com (154.54.30.129)  11.133 ms ae-21.r08.chcgil09.us.bb.gin.ntt.net (129.250.3.158)  25.810 ms
+10  be2892.ccr42.dca01.atlas.cogentco.com (154.54.82.254)  23.145 ms ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  30.630 ms be2891.ccr41.dca01.atlas.cogentco.com (154.54.82.250)  23.215 ms
+11  ae-1.r23.asbnva02.us.bb.gin.ntt.net (129.250.2.138)  25.924 ms  28.257 ms  25.873 ms
+12  ae-20.r06.asbnva02.us.bb.gin.ntt.net (129.250.2.133)  25.730 ms ae-2.r05.asbnva02.us.bb.gin.ntt.net (129.250.2.22)  28.552 ms  25.368 ms
+13  ae-1.a03.asbnva02.us.bb.gin.ntt.net (129.250.5.214)  28.564 ms 38.122.62.254 (38.122.62.254)  24.086 ms  23.896 ms
+14  ip-208-113-156-8.dreamhost.com (208.113.156.8)  27.426 ms  25.673 ms ae-0.dreamhost.asbnva02.us.bb.gin.ntt.net (129.250.196.242)  28.061 ms
+15  ip-208-113-156-14.dreamhost.com (208.113.156.14)  27.457 ms ip-208-113-156-8.dreamhost.com (208.113.156.8)  29.037 ms ip-208-113-156-14.dreamhost.com (208.113.156.14)  27.721 ms
+16  ip-208-113-156-14.dreamhost.com (208.113.156.14)  32.063 ms * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.madisonatoz.com (104.18.138.190), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.622 ms  0.618 ms  0.562 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.858 ms  1.683 ms  2.387 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.638 ms  1.564 ms  1.666 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.580 ms  1.715 ms 172.97.107.193 (172.97.107.193)  12.453 ms
+ 5  * * *
+ 6  104.18.138.190 (104.18.138.190)  13.296 ms  13.268 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.048 ms
+traceroute to www.icemedia.com.au (52.65.195.45), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.643 ms  0.620 ms  0.590 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.467 ms  1.416 ms  2.085 ms
+ 3  162.247.144.38 (162.247.144.38)  0.949 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.427 ms  1.369 ms
+ 4  162.247.144.34 (162.247.144.34)  1.431 ms  1.779 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.447 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.452 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.585 ms  1.904 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.490 ms  3.524 ms 169.130.170.64 (169.130.170.64)  4.905 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  12.708 ms  13.172 ms  13.216 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  14.679 ms  9.544 ms  10.695 ms
+ 9  ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  74.087 ms ae-21.r08.chcgil09.us.bb.gin.ntt.net (129.250.3.158)  74.820 ms prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.457 ms
+10  ae-5.r21.chcgil09.us.bb.gin.ntt.net (129.250.4.213)  11.309 ms pos5-3.br01.chc01.pccwbtn.net (63.218.5.17)  9.794 ms ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  11.367 ms
+11  tenge0-0-0-11.br01.tok13.pccwbtn.net (63.223.33.114)  163.197 ms tenge0-0-0-9.br01.tok13.pccwbtn.net (63.223.33.106)  153.864 ms tenge0-0-0-2.br01.tok13.pccwbtn.net (63.223.33.74)  155.303 ms
+12  ae-6.r23.lsanca07.us.bb.gin.ntt.net (129.250.4.151)  75.508 ms  70.096 ms  71.456 ms
+13  ae-2.r01.lsanca07.us.bb.gin.ntt.net (129.250.4.107)  70.098 ms 63-222-57-30.static.pccwglobal.net (63.222.57.30)  160.801 ms  152.345 ms
+14  * * *
+15  * 52.93.92.50 (52.93.92.50)  73.992 ms *
+16  * * *
+17  * * *
+18  52.93.92.35 (52.93.92.35)  75.180 ms 52.93.92.37 (52.93.92.37)  70.188 ms *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  52.95.36.83 (52.95.36.83)  234.319 ms 52.95.36.67 (52.95.36.67)  234.072 ms *
+24  * * 52.95.37.100 (52.95.37.100)  225.441 ms
+25  * * 54.240.203.180 (54.240.203.180)  220.055 ms
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.youtube.com (172.217.4.78), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.611 ms  0.621 ms  0.568 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.425 ms  1.996 ms  1.801 ms
+ 3  162.247.144.38 (162.247.144.38)  0.827 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.489 ms 162.247.144.38 (162.247.144.38)  0.773 ms
+ 4  172.97.107.193 (172.97.107.193)  13.420 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.496 ms  1.511 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.867 ms * *
+ 6  108.170.244.1 (108.170.244.1)  12.759 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.627 ms  2.122 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.528 ms 216.239.51.145 (216.239.51.145)  13.346 ms 216.239.51.117 (216.239.51.117)  13.280 ms
+ 8  lga15s47-in-f78.1e100.net (172.217.4.78)  12.295 ms  12.383 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.599 ms
+traceroute to plasticboy.com (216.92.179.77), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.610 ms  0.579 ms  0.579 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.875 ms  1.510 ms  2.661 ms
+ 3  162.247.144.38 (162.247.144.38)  0.761 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.490 ms  1.637 ms
+ 4  172.97.107.193 (172.97.107.193)  11.800 ms  11.800 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.628 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.802 ms  1.919 ms
+ 6  pitt-b2-link.telia.net (62.115.124.6)  22.002 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.512 ms pitt-b2-link.telia.net (62.115.124.6)  21.977 ms
+ 7  capcon-ic-331908-pitt-b1.c.telia.net (62.115.61.251)  18.729 ms  18.793 ms  18.696 ms
+ 8  * * bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  10.138 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.489 ms  9.563 ms pbwptest.pairsite.com (216.92.179.77)  18.520 ms
+traceroute to theharveygirls.bandcamp.com (151.101.1.28), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.621 ms  0.604 ms  0.595 ms
+ 2  * lan3-49.svsu.edu (155.138.3.49)  1.673 ms  2.095 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.422 ms 162.247.144.38 (162.247.144.38)  0.878 ms  0.855 ms
+ 4  172.97.107.193 (172.97.107.193)  12.487 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.489 ms 172.97.107.193 (172.97.107.193)  12.643 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.754 ms  1.767 ms *
+ 6  * * *
+ 7  * bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.635 ms  9.789 ms
+ 8  * * *
+ 9  * prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.414 ms *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.robot-frog.com (104.31.71.161), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.604 ms  0.618 ms  0.571 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.527 ms  1.535 ms  2.080 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.358 ms 162.247.144.38 (162.247.144.38)  0.814 ms  0.914 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.473 ms 172.97.107.193 (172.97.107.193)  12.559 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.536 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  2.030 ms  1.841 ms  1.796 ms
+ 6  104.31.71.161 (104.31.71.161)  13.312 ms  13.102 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  9.503 ms
+traceroute to Boivin.com (64.99.80.121), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.617 ms  0.614 ms  0.558 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.394 ms  1.419 ms  2.076 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.448 ms 162.247.144.38 (162.247.144.38)  0.848 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.427 ms
+ 4  162.247.144.34 (162.247.144.34)  1.186 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.508 ms  1.510 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.232 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.565 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.212 ms
+ 6  169.130.170.64 (169.130.170.64)  4.836 ms  4.843 ms  4.887 ms
+ 7  be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.184 ms  7.520 ms  7.292 ms
+ 8  be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.681 ms ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.367 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.721 ms
+ 9  ae-21.r08.chcgil09.us.bb.gin.ntt.net (129.250.3.158)  25.959 ms  25.984 ms  26.177 ms
+10  be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  12.133 ms ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  11.272 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  12.121 ms
+11  ae-1.r23.asbnva02.us.bb.gin.ntt.net (129.250.2.138)  30.533 ms ae-11.r08.chcgil09.us.bb.gin.ntt.net (129.250.9.121)  12.470 ms  12.481 ms
+12  ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  12.079 ms ae-20.r06.asbnva02.us.bb.gin.ntt.net (129.250.2.133)  25.582 ms ae-2.r05.asbnva02.us.bb.gin.ntt.net (129.250.2.22)  25.605 ms
+13  ae-0.a00.asbnva02.us.bb.gin.ntt.net (129.250.5.152)  25.679 ms ae-1.r23.asbnva02.us.bb.gin.ntt.net (129.250.2.138)  27.586 ms ae-0.a00.asbnva02.us.bb.gin.ntt.net (129.250.5.152)  25.224 ms
+14  xe-0-0-15-0.a00.asbnva02.us.ce.gin.ntt.net (130.94.195.234)  28.529 ms  28.444 ms ae-20.r06.asbnva02.us.bb.gin.ntt.net (129.250.2.133)  26.320 ms
+15  64.98.0.110 (64.98.0.110)  76.373 ms  76.473 ms ae-0.a00.asbnva02.us.bb.gin.ntt.net (129.250.5.152)  28.993 ms
+16  xe-0-0-15-0.a00.asbnva02.us.ce.gin.ntt.net (130.94.195.234)  26.778 ms 64.99.0.22 (64.99.0.22)  42.162 ms xe-0-0-15-0.a00.asbnva02.us.ce.gin.ntt.net (130.94.195.234)  29.414 ms
+17  64.98.0.110 (64.98.0.110)  60.219 ms  56.517 ms  55.446 ms
+18  realnames.com (64.99.80.121)  41.968 ms  39.394 ms 64.99.0.22 (64.99.0.22)  43.129 ms
+traceroute to www.johnwyke.com (18.234.20.118), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.619 ms  0.611 ms  0.606 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.940 ms  2.434 ms  3.079 ms
+ 3  162.247.144.38 (162.247.144.38)  0.870 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.420 ms 162.247.144.38 (162.247.144.38)  0.781 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.492 ms 172.97.107.193 (172.97.107.193)  12.095 ms  12.125 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.844 ms  1.944 ms *
+ 6  * bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.943 ms  6.581 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  8.852 ms * *
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  14.884 ms  14.134 ms *
+ 9  * * prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.497 ms
+10  ae14.ar1.ord1.us.as4436.gtt.net (69.31.111.113)  11.041 ms * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * 54.240.229.149 (54.240.229.149)  25.593 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to pubfloors.wordpress.com (192.0.78.13), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.653 ms  0.629 ms  0.591 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.504 ms  1.410 ms  2.084 ms
+ 3  162.247.144.38 (162.247.144.38)  0.886 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.668 ms 162.247.144.38 (162.247.144.38)  0.845 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.599 ms 172.97.107.193 (172.97.107.193)  11.722 ms  11.803 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.654 ms  1.597 ms
+ 6  192.0.78.13 (192.0.78.13)  12.127 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.746 ms  9.028 ms
+traceroute to www.visadoor.com (68.183.141.36), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.637 ms  0.591 ms  0.585 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.455 ms  2.128 ms  1.375 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.511 ms 162.247.144.38 (162.247.144.38)  0.772 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.506 ms
+ 4  172.97.107.193 (172.97.107.193)  11.793 ms  11.831 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.616 ms
+ 5  * * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.906 ms
+ 6  nyk-bb4-link.telia.net (62.115.137.58)  27.312 ms  27.236 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.054 ms
+ 7  nyk-b3-link.telia.net (62.115.139.151)  27.099 ms  27.119 ms nyk-b3-link.telia.net (62.115.140.223)  26.940 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.570 ms  12.066 ms *
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.617 ms  9.569 ms  9.429 ms
+10  * * *
+11  * 68.183.141.36 (68.183.141.36)  27.833 ms *
+traceroute to benedictleigh.tumblr.com (66.6.33.21), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.626 ms  0.612 ms  0.591 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.550 ms  1.517 ms  2.112 ms
+ 3  162.247.144.38 (162.247.144.38)  0.826 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.449 ms  1.552 ms
+ 4  172.97.107.193 (172.97.107.193)  11.853 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.604 ms 172.97.107.193 (172.97.107.193)  11.808 ms
+ 5  208.115.136.16 (208.115.136.16)  12.393 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.832 ms 208.115.136.16 (208.115.136.16)  12.357 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.241 ms  7.893 ms ae-10.pat2.bfy.yahoo.com (184.165.16.0)  24.237 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  11.020 ms et-19-1-0.msr2.bf1.yahoo.com (74.6.227.141)  38.668 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.833 ms
+ 8  et-0-0-0.msr1.bf1.yahoo.com (74.6.227.129)  27.110 ms et-18-0-0.clr1-a-gdc.bf2.yahoo.com (74.6.122.61)  27.630 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  20.277 ms
+ 9  lo0.egr2-2-tba.bf2.yahoo.com (74.6.64.1)  28.564 ms lo0.egr3-3-tba.bf2.yahoo.com (74.6.64.2)  28.485 ms et-1-1-0.clr2-a-gdc.bf2.yahoo.com (74.6.122.57)  29.337 ms
+10  xe-5-1-11.msr2.md2.yahoo.com (216.115.100.77)  20.994 ms lo0.egr3-3-tba.bf2.yahoo.com (74.6.64.2)  28.408 ms lo0.egr2-2-tba.bf2.yahoo.com (74.6.64.1)  28.521 ms
+11  lo0.spn4-2-tba.bf2.yahoo.com (74.6.64.147)  28.386 ms ae-8.pat1.bfz.yahoo.com (216.115.101.231)  27.277 ms ae-10.pat2.bfy.yahoo.com (184.165.16.0)  23.388 ms
+12  lo0.spn1-2-tba.bf2.yahoo.com (74.6.64.144)  28.829 ms unknown-74-6-227-x.yahoo.com (74.6.227.139)  25.806 ms et-18-0-1.msr1.bf1.yahoo.com (74.6.227.131)  27.498 ms
+13  lo0.lef5-2-tba.bf2.yahoo.com (74.6.64.152)  27.404 ms lo0.lef5-1-tba.bf2.yahoo.com (74.6.64.136)  28.968 ms et-1-1-1.msr1.bf2.yahoo.com (72.30.223.53)  26.150 ms
+14  * * *
+15  lo0.egr4-4-tba.bf2.yahoo.com (74.6.64.3)  26.411 ms lo0.egr1-1-tba.bf2.yahoo.com (74.6.64.0)  25.899 ms *
+16  lo0.lef1-2-tba.bf2.yahoo.com (74.6.64.148)  26.397 ms lo0.lef4-2-tba.bf2.yahoo.com (74.6.64.151)  27.456 ms lo0.spn2-1-tba.bf2.yahoo.com (74.6.64.129)  26.071 ms
+17  * * lo0.lef6-2-tba.bf2.yahoo.com (74.6.64.153)  25.928 ms
+18  * * lo0.lef6-1-tba.bf2.yahoo.com (74.6.64.137)  25.889 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.cnn.com (151.101.185.67), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.623 ms  0.605 ms  0.588 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.694 ms  2.260 ms  1.562 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.474 ms 162.247.144.38 (162.247.144.38)  0.886 ms  0.779 ms
+ 4  172.97.107.193 (172.97.107.193)  11.865 ms  11.767 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.511 ms
+ 5  * * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.842 ms
+ 6  * bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.382 ms *
+ 7  * * bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.203 ms
+ 8  * * bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  13.276 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.797 ms  9.674 ms  9.491 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to hightechparent.blogspot.com (172.217.9.33), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.609 ms  0.608 ms  0.601 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.631 ms  2.320 ms  1.493 ms
+ 3  162.247.144.38 (162.247.144.38)  0.833 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.584 ms  1.578 ms
+ 4  172.97.107.193 (172.97.107.193)  11.996 ms  11.897 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.423 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.993 ms  1.928 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  9.064 ms  8.448 ms  6.007 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.668 ms 72.14.239.113 (72.14.239.113)  12.443 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  8.822 ms
+ 8  ord38s08-in-f1.1e100.net (172.217.9.33)  12.393 ms  12.297 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  15.838 ms
+traceroute to www.paulkoskinenart.ca (185.230.60.195), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.645 ms  0.585 ms  0.596 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.840 ms  1.528 ms  2.226 ms
+ 3  162.247.144.38 (162.247.144.38)  0.827 ms  0.865 ms  0.802 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.563 ms  1.711 ms 172.97.107.193 (172.97.107.193)  11.883 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.588 ms *  1.569 ms
+ 6  nyk-bb4-link.telia.net (62.115.137.58)  32.598 ms  32.646 ms  32.669 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  7.203 ms  7.272 ms *
+ 8  ash-b1-link.telia.net (62.115.143.79)  32.919 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  16.637 ms ash-b1-link.telia.net (62.115.143.121)  31.499 ms
+ 9  ash-b1-link.telia.net (80.91.248.157)  33.657 ms prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.583 ms  9.459 ms
+10  * * *
+11  * * *
+12  wixpress-lt.bear1.washington111.level3.net (4.14.96.186)  1356.900 ms 185.230.60.195 (185.230.60.195)  33.761 ms  33.809 ms
+traceroute to zackfern.me (104.200.22.214), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.618 ms  0.593 ms  0.588 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.474 ms  1.468 ms  2.060 ms
+ 3  162.247.144.38 (162.247.144.38)  1.192 ms  1.185 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.377 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.622 ms  1.759 ms 172.97.107.193 (172.97.107.193)  12.396 ms
+ 5  chi350-10g.stl900-rtr0.stlouis-mo.as19754.gotfusion.net (162.255.202.228)  18.785 ms  18.856 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.997 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.673 ms  3.157 ms stl900-10g.1950stemmons-rtr0.dallas-tx.as19754.gotfusion.net (162.255.202.231)  34.641 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.775 ms eqix-ix-da.linode.com (206.223.118.107)  35.717 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.112 ms
+ 8  45.79.12.1 (45.79.12.1)  35.911 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  10.070 ms 45.79.12.3 (45.79.12.3)  36.058 ms
+ 9  nb-104-200-22-214.dallas.nodebalancer.linode.com (104.200.22.214)  37.850 ms  37.616 ms  37.797 ms
+traceroute to www.danmorelle.com (104.28.9.99), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.611 ms  0.603 ms  0.581 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.519 ms  1.971 ms  1.484 ms
+ 3  162.247.144.38 (162.247.144.38)  0.851 ms  0.781 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.278 ms
+ 4  172.97.107.193 (172.97.107.193)  11.745 ms  11.769 ms  11.715 ms
+ 5  * * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.719 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  9.288 ms 104.28.9.99 (104.28.9.99)  13.555 ms  13.277 ms
+traceroute to www.pixelfirefx.com (50.87.186.23), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.619 ms  0.588 ms  0.572 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.437 ms  1.366 ms  1.801 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.380 ms  1.511 ms  1.459 ms
+ 4  162.247.144.34 (162.247.144.34)  1.865 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.511 ms  1.640 ms
+ 5  h132.123.140.40.ip.windstream.net (40.140.123.132)  5.422 ms  5.398 ms  5.437 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.899 ms 169.130.170.64 (169.130.170.64)  5.010 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.959 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.953 ms be4309.rcr21.dtw04.atlas.cogentco.com (38.122.60.49)  7.115 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.862 ms
+ 8  ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.528 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  9.082 ms ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  11.492 ms
+ 9  ae-11.r07.chcgil09.us.bb.gin.ntt.net (129.250.3.144)  67.242 ms be2129.ccr42.ord01.atlas.cogentco.com (154.54.82.225)  12.144 ms be2128.ccr41.ord01.atlas.cogentco.com (154.54.82.213)  12.139 ms
+10  be2765.ccr41.ord03.atlas.cogentco.com (154.54.45.18)  12.159 ms be2766.ccr41.ord03.atlas.cogentco.com (154.54.46.178)  12.106 ms  12.148 ms
+11  ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  67.020 ms ae-11.r08.chcgil09.us.bb.gin.ntt.net (129.250.9.121)  12.498 ms  12.314 ms
+12  ae-19.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.27)  67.106 ms ae-0.r21.chcgil09.us.bb.gin.ntt.net (129.250.2.205)  33.513 ms  12.107 ms
+13  ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  63.804 ms ae-1.a01.snjsca04.us.bb.gin.ntt.net (129.250.2.48)  62.996 ms ae-5.r22.snjsca04.us.bb.gin.ntt.net (129.250.5.17)  69.628 ms
+14  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  70.469 ms ae-40.r02.snjsca04.us.bb.gin.ntt.net (129.250.3.121)  63.520 ms ae-19.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.27)  64.161 ms
+15  eth4-33-4.prvspn002.net.unifiedlayer.com (162.144.240.169)  66.314 ms ae-1.a01.snjsca04.us.bb.gin.ntt.net (129.250.2.48)  67.663 ms eth4-33-3.prvspn001.net.unifiedlayer.com (162.144.240.145)  70.438 ms
+16  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  67.236 ms  71.207 ms  68.013 ms
+17  eth3-33-4.prvspn001.net.unifiedlayer.com (162.144.240.151)  67.171 ms 50-87-186-23.unifiedlayer.com (50.87.186.23)  70.628 ms  66.429 ms
+traceroute to www.facebook.com (157.240.18.35), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.593 ms  0.587 ms  0.577 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.463 ms  1.490 ms  2.017 ms
+ 3  162.247.144.38 (162.247.144.38)  0.897 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.449 ms  1.444 ms
+ 4  172.97.107.193 (172.97.107.193)  11.728 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.521 ms  1.638 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.553 ms *
+ 6  po141.asw04.ord3.tfbnw.net (157.240.33.178)  12.294 ms po141.asw03.ord3.tfbnw.net (157.240.33.176)  12.367 ms po141.asw01.ord3.tfbnw.net (157.240.33.172)  12.689 ms
+ 7  po721.psw01.ord2.tfbnw.net (157.240.33.197)  12.851 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  9.590 ms  10.695 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  11.914 ms 173.252.67.219 (173.252.67.219)  12.507 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  23.586 ms
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.657 ms edge-star-mini-shv-02-ort2.facebook.com (157.240.18.35)  12.836 ms  12.299 ms
+traceroute to www.slowreflexes.com (35.186.238.101), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.669 ms  0.621 ms  0.608 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.604 ms  2.167 ms  2.918 ms
+ 3  162.247.144.38 (162.247.144.38)  0.804 ms  0.949 ms  0.844 ms
+ 4  172.97.107.193 (172.97.107.193)  11.910 ms  11.819 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.524 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.621 ms  1.608 ms *
+ 6  108.170.243.174 (108.170.243.174)  12.308 ms 108.170.243.225 (108.170.243.225)  13.551 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.309 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.991 ms  10.650 ms  5.549 ms
+ 8  101.238.186.35.bc.googleusercontent.com (35.186.238.101)  12.218 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  12.348 ms 101.238.186.35.bc.googleusercontent.com (35.186.238.101)  12.187 ms
+traceroute to shawnstruck.blogspot.com (172.217.9.33), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.596 ms  0.605 ms  0.577 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.894 ms  1.890 ms  2.359 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.634 ms  1.563 ms  1.678 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.529 ms 172.97.107.193 (172.97.107.193)  11.724 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.581 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.996 ms  1.945 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.141 ms 108.170.243.193 (108.170.243.193)  13.162 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  8.610 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.854 ms  10.218 ms 72.14.239.113 (72.14.239.113)  12.395 ms
+ 8  ord38s08-in-f1.1e100.net (172.217.9.33)  12.250 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  10.714 ms ord38s08-in-f1.1e100.net (172.217.9.33)  12.219 ms
+traceroute to saila.com (143.95.39.23), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.608 ms  0.646 ms  0.580 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.594 ms  1.486 ms  2.120 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.423 ms  1.371 ms 162.247.144.38 (162.247.144.38)  0.829 ms
+ 4  172.97.107.193 (172.97.107.193)  11.897 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.675 ms  1.666 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.889 ms  1.985 ms  1.981 ms
+ 6  be3028.ccr41.ord03.atlas.cogentco.com (154.54.12.37)  11.099 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  7.213 ms  1.675 ms
+ 7  be2766.ccr42.ord01.atlas.cogentco.com (154.54.46.177)  11.326 ms be2765.ccr41.ord01.atlas.cogentco.com (154.54.45.17)  11.313 ms be2766.ccr42.ord01.atlas.cogentco.com (154.54.46.177)  11.206 ms
+ 8  be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  23.299 ms be2123.rcr51.tol01.atlas.cogentco.com (154.54.82.137)  8.640 ms  8.709 ms
+ 9  be2128.ccr41.ord01.atlas.cogentco.com (154.54.82.213)  12.212 ms be2129.ccr42.ord01.atlas.cogentco.com (154.54.82.225)  12.475 ms be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  33.175 ms
+10  be2560.rcr21.b010621-0.dfw01.atlas.cogentco.com (154.54.5.238)  33.479 ms be2832.ccr22.mci01.atlas.cogentco.com (154.54.44.169)  24.099 ms  24.025 ms
+11  be2433.ccr32.dfw01.atlas.cogentco.com (154.54.3.213)  34.030 ms 38.32.13.210 (38.32.13.210)  33.189 ms be2432.ccr31.dfw01.atlas.cogentco.com (154.54.3.133)  34.050 ms
+12  sterling.asoshared.com (143.95.39.23)  32.999 ms be2560.rcr21.b010621-0.dfw01.atlas.cogentco.com (154.54.5.238)  34.342 ms sterling.asoshared.com (143.95.39.23)  33.303 ms
+traceroute to www.skittish.org (104.24.125.39), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.589 ms  0.567 ms  0.560 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.415 ms  2.084 ms  2.590 ms
+ 3  162.247.144.38 (162.247.144.38)  0.999 ms  0.914 ms  0.966 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.634 ms  1.613 ms  1.740 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.610 ms *  2.033 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.634 ms 104.24.125.39 (104.24.125.39)  12.292 ms  12.202 ms
+traceroute to www.indietot.org (162.241.217.99), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.595 ms  0.593 ms  0.569 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.379 ms  1.818 ms  2.322 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.314 ms 162.247.144.38 (162.247.144.38)  0.871 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.401 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.501 ms 162.247.144.34 (162.247.144.34)  1.133 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.598 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.663 ms  1.936 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.521 ms
+ 6  169.130.170.64 (169.130.170.64)  4.960 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  6.335 ms  7.827 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  5.638 ms ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  15.100 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  10.474 ms
+ 8  ae-9.a00.chcgil09.us.bb.gin.ntt.net (129.250.203.5)  12.778 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  11.920 ms  11.632 ms
+ 9  prr02chcgil-bue-3.chcg.il.charter.com (96.34.3.114)  9.801 ms  9.696 ms ae-21.r08.chcgil09.us.bb.gin.ntt.net (129.250.3.158)  32.678 ms
+10  ae-0.r20.chcgil09.us.bb.gin.ntt.net (129.250.2.191)  12.305 ms be-204-pe04.350ecermak.il.ibone.comcast.net (23.30.206.169)  9.399 ms  9.503 ms
+11  ae-4.r23.dllstx09.us.bb.gin.ntt.net (129.250.4.152)  32.269 ms  35.626 ms  32.411 ms
+12  ae-6.r10.dllstx09.us.bb.gin.ntt.net (129.250.5.4)  32.576 ms be-10506-cr01.chicago.il.ibone.comcast.net (68.86.86.230)  11.035 ms ae-5.r11.dllstx09.us.bb.gin.ntt.net (129.250.5.24)  35.189 ms
+13  be-10614-cr02.56marietta.ga.ibone.comcast.net (68.86.84.142)  27.894 ms  27.783 ms ae-0.a01.dllstx04.us.bb.gin.ntt.net (129.250.4.178)  32.409 ms
+14  be-11423-cr01.houston.tx.ibone.comcast.net (68.86.85.22)  42.015 ms ae-0.endurance.dllstx04.us.bb.gin.ntt.net (131.103.117.102)  44.048 ms be-11423-cr01.houston.tx.ibone.comcast.net (68.86.85.22)  42.681 ms
+15  be-12393-pe01.westwaypark.tx.ibone.comcast.net (68.86.82.130)  40.310 ms 216.117.50.146 (216.117.50.146)  41.302 ms be-12393-pe01.westwaypark.tx.ibone.comcast.net (68.86.82.130)  40.653 ms
+16  po100.router2b.hou1.net.unifiedlayer.com (162.241.0.5)  41.112 ms  43.850 ms po100.router2a.hou1.net.unifiedlayer.com (162.241.0.3)  41.003 ms
+17  108.167.150.122 (108.167.150.122)  40.997 ms 108.167.150.118 (108.167.150.118)  40.627 ms  40.545 ms
+18  box5474.bluehost.com (162.241.217.99)  43.815 ms  41.104 ms  41.007 ms
+traceroute to www.washingtonpost.com (23.63.182.68), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.620 ms  0.625 ms  0.560 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.491 ms  1.946 ms  1.774 ms
+ 3  162.247.144.38 (162.247.144.38)  0.933 ms  0.973 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.478 ms
+ 4  162.247.144.34 (162.247.144.34)  1.336 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.541 ms 162.247.144.34 (162.247.144.34)  1.278 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  2.011 ms h132.123.140.40.ip.windstream.net (40.140.123.132)  5.409 ms crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.670 ms
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  4.576 ms 169.130.170.64 (169.130.170.64)  5.191 ms  4.824 ms
+ 7  ae10-0.cr02.chcg01-il.us.windstream.net (40.138.81.210)  13.172 ms  12.978 ms  13.197 ms
+ 8  ae2-0.cr01.chcg23-il.us.windstream.net (40.138.82.188)  12.813 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  9.227 ms ae2-0.cr01.chcg23-il.us.windstream.net (40.138.82.188)  12.787 ms
+ 9  chi-b21-link.telia.net (62.115.14.41)  9.677 ms  9.725 ms h21.112.136.40.static.ip.windstream.net (40.136.112.21)  22.053 ms
+10  * * akamai-ic-341037-chi-b21.c.telia.net (62.115.169.49)  38.468 ms
+11  * ae10.latisys-ord2.netarch.akamai.com (23.203.151.199)  11.186 ms *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to www.woezik.com (35.169.58.188), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.621 ms  0.606 ms  0.577 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.467 ms  1.415 ms  1.937 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  2.152 ms  2.053 ms  2.103 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.633 ms  1.786 ms  1.773 ms
+ 5  * * *
+ 6  bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  2.041 ms  4.393 ms  7.603 ms
+ 7  * bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  12.835 ms *
+ 8  * bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  14.628 ms *
+ 9  prr01chcgil-bue-2.chcg.il.charter.com (96.34.3.9)  9.450 ms  9.446 ms  9.796 ms
+10  54.240.229.145 (54.240.229.145)  44.646 ms ae14.ar1.ord1.us.as4436.gtt.net (69.31.111.113)  11.046 ms  10.964 ms
+11  * * *
+12  * * 54.240.229.155 (54.240.229.155)  27.376 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * 54.240.229.159 (54.240.229.159)  31.231 ms *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to redeye.blogspot.com (172.217.9.33), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.619 ms  0.603 ms  0.566 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.555 ms  1.541 ms  2.060 ms
+ 3  035-131-224-113.biz.spectrum.com (35.131.224.113)  1.367 ms 162.247.144.38 (162.247.144.38)  0.792 ms  0.893 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.533 ms 172.97.107.193 (172.97.107.193)  12.147 ms dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.565 ms
+ 5  crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.555 ms  1.956 ms *
+ 6  108.170.243.193 (108.170.243.193)  12.394 ms bbr01sgnwmi-bue-1.sgnw.mi.charter.com (96.34.2.56)  3.794 ms  3.762 ms
+ 7  72.14.239.111 (72.14.239.111)  11.012 ms bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  7.390 ms 72.14.239.113 (72.14.239.113)  13.301 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  16.629 ms ord38s08-in-f1.1e100.net (172.217.9.33)  12.851 ms bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  9.392 ms
+traceroute to member.tripod.com (209.202.252.66), 30 hops max, 60 byte packets
+ 1  10.8.30.1 (10.8.30.1)  0.649 ms  0.607 ms  0.593 ms
+ 2  lan3-49.svsu.edu (155.138.3.49)  1.516 ms  1.613 ms  2.172 ms
+ 3  162.247.144.38 (162.247.144.38)  0.898 ms  1.307 ms 035-131-224-113.biz.spectrum.com (35.131.224.113)  1.344 ms
+ 4  dtr01bycymi-tge-0-0-0-3.bycy.mi.charter.com (96.34.32.38)  1.678 ms  1.631 ms  1.755 ms
+ 5  * crr01sgnwmi-bue-428.sgnw.mi.charter.com (96.34.35.6)  1.604 ms *
+ 6  comcast-ic-318907-chi-b21.c.telia.net (62.115.150.3)  10.915 ms  11.121 ms  11.176 ms
+ 7  bbr01aldlmi-bue-5.aldl.mi.charter.com (96.34.0.54)  9.529 ms  9.560 ms  8.398 ms
+ 8  bbr01chcgil-bue-805.chcg.il.charter.com (96.34.0.139)  9.992 ms  16.857 ms be-7922-ar01.woburn.ma.boston.comcast.net (68.86.91.6)  36.962 ms
+ 9  96.108.71.58 (96.108.71.58)  37.127 ms  36.977 ms prr02chcgil-bue-3.chcg.il.charter.com (96.34.3.114)  9.865 ms
+10  be-204-pe04.350ecermak.il.ibone.comcast.net (23.30.206.169)  9.519 ms  9.591 ms  9.526 ms
+11  162.151.190.26 (162.151.190.26)  37.903 ms  37.689 ms be-10588-cr02.350ecermak.il.ibone.comcast.net (68.86.83.49)  11.418 ms
+12  be-7922-ar01.woburn.ma.boston.comcast.net (68.86.91.6)  36.625 ms  35.116 ms  35.281 ms
+13  96.108.71.58 (96.108.71.58)  35.376 ms  35.480 ms  35.480 ms
+14  96.108.71.245 (96.108.71.245)  35.438 ms *  35.384 ms
+15  * * be-22-sur02.lowell.ma.boston.comcast.net (69.139.221.246)  35.797 ms
+16  50.224.253.194 (50.224.253.194)  36.552 ms  36.521 ms *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
