@@ -1,6 +1,11 @@
 import java.net.Inet4Address;
 import java.net.UnknownHostException;
 
+/**
+ * Stores the data of a router. Has a constructor
+ * that allows for hostname entry, as well as a copy
+ * constructor, used for implicitly creating new routers.
+ */
 public class Router {
     public String hostname;
     public Inet4Address ip;
